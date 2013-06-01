@@ -39,12 +39,6 @@ background-image: images/candle-alight.jpg
         {% include Posts_en.html %}
     </div-->
     
-    <div class="divCategory">
-        <h1 class="hTitle2">Contact me</h1>
-        <hr />
-        {% include ContactMe.html %}
-    </div>
-    
 </div>
 
 <div id="divRight">
@@ -54,8 +48,16 @@ background-image: images/candle-alight.jpg
         <hr />
         {% include Projects.html %}
     </div-->
-    
+
     <div class="divCategory">
+        <h1 class="hTitle2"><b><a href="./about.html">ABOUT ME</a></b></h1>
+        <hr />
+        {% include ContactMe.html %}
+    </div>
+    
+</div>
+    
+    <div class="divCategory" style="visibility:hidden">
         <h1 class="hTitle1">Photos</h1>
         <div class="divExtLinks">
             <!--a href="" target="_blank"><img src="/images/gplus-32.png" alt="gplus" title="Google+ Albums" class="navDock" height="24" /></a 這個要等以後做Flicker用--> 
@@ -79,13 +81,13 @@ background-image: images/candle-alight.jpg
     <div class="divCategory" style="visibility:hidden">
         <h1 class="hTitle2">About me</h1>
         <hr />
-        include AboutMe.html
+        {% include AboutMe.html %}
     </div>
     
     <div class="divCategory" style="visibility:hidden">
         <h1 class="hTitle2">Links</h1>
         <hr />
-        include Links.html
+        {% include Links.html %}
     </div>
     <div id="div0"></div>
 </div>

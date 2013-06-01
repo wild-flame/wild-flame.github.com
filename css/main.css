@@ -339,9 +339,9 @@ div#divPost {
 }
 
 div#divPost a {
-    color: #ffffff;
+    color: #222;
 	font-weight: bold;
-    text-decoration: none;
+    text-decoration: underline;
 	
 	transition: all 0.2s ease-in-out;
 	-webkit-transition: all 0.2s ease-out;
