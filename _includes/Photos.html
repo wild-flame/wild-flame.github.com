@@ -1,14 +1,9 @@
-<p>
-This place under construction! And it will be shown in one weeks.
-</p>
-
 {% for post in site.posts %}
 {% if post.layout == 'album' and post.category == 'photos' %}
 <article class="articleScrap">
     <aside class="asideScrap">
         {{ post.title }}
     </aside>
-    
     <section class="sectionScrap">
         <a href="{{ post.uri }}" target="_blank"><img src="{{ post.thumbnail-image }}" width="50%" alt="{{ post.title }}" title="{{ post.title }}" class="imgScrap" /></a>
         <br />
