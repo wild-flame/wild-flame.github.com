@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 给大学的同学们-关于选择与体验，人生目标与梦想
+author: Taffy
 category: posts
 description: 给那些还在迷茫的，将要迷茫和还未迷茫的我们，关于选择与体验，人生目标与梦想
 ---
