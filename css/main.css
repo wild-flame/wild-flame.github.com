@@ -317,6 +317,11 @@ div#divTitle {
     text-shadow: 0 0 16px #fff;
 }
 
+div#divTitle div#divTitleDis{
+	text-align: center;
+    text-shadow: 0 0 16px #000;
+}
+
 div#divTitle div#divTitleNav {
 	position: fixed;
 	left: 4%;

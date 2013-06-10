@@ -2,11 +2,14 @@
 layout: main
 background-image: /images/Candle_flame_by_Zhenia1994.jpg
 ---
+
 <div id="divTitle">
     <h1>{{ page.title }}</h1>
     <p><div class="g-plusone" data-size="medium" data-annotation="none"></div></p>
     <p><b>{{ page.date | date_to_string }}</b>, by <b>{{ page.author }}</b></p>
+<div id="divTitleDis">
     <p>{{ page.description }}</p>
+</div>
 
 <script type="text/javascript" charset="utf-8">
 (function(){
@@ -29,6 +32,7 @@ background-image: /images/Candle_flame_by_Zhenia1994.jpg
   document.write('<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>')
 })()
 </script>
+
 </div>
 
 <div id="divPost">
@@ -50,5 +54,4 @@ background-image: /images/Candle_flame_by_Zhenia1994.jpg
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
     </div>
-
 </div>
