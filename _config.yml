@@ -1,0 +1,4 @@
+markdown: rdiscount 
+pygments: false
+exclude: []
+permalink: /:title
