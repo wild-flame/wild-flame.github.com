@@ -15,11 +15,14 @@ Youtube地址 <http://www.youtube.com/watch?v=8Gu51yGvRfk> 6.08已放出
 【正篇】 NCTU2013 陸生惜別晚會 —— 第二彈__情非得已
 
 Youtube地址 <http://www.youtube.com/watch?v=Q4p9rl41jhw> 6.11已放出
+
 优酷地址 審核中 
 
 【正篇】 NCTU2013 陸生惜別晚會 —— 第三彈__獨唱《洋蔥》&《甄嬛與七個小矮人》
 
-敬請期待 預計6.14，15完成 
+敬請期待
+
+預計6.14，15 
 
 ……
 
