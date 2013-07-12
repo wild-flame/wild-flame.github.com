@@ -26,7 +26,7 @@ Youtube地址 <https://www.youtube.com/watch?v=AhoiPhOz7Rc> 6.16已放出
 
 【正篇，新番】 NCTU2013 陸生惜別晚會 —— 第四彈__鳳凰花開的時候 & 交大的意義
 
-Youtube地址 上传ING~~ 
+Youtube地址 <https://www.youtube.com/watch?v=4oJaYhhXBp8> 7.10放出
 
 优酷地址  <http://v.youku.com/v_show/id_XNTgwNDY2MzY0.html> 7.8已放出
 
