@@ -1,12 +1,14 @@
 ---
 layout: post
-title: ［Python］如何在ubuntu 12.04下面安装影像处理的库  -- PIL (PYTHON IMAGE LIBRARY)
+title: ［Python］ubuntu 12.04下面安装影像处理的库PIL的安装以及一些实用的资料
 author: Taffy 
 category: tech
-description: 之前做影像处理都是用的Matlab, 但这次打算用Python来做，所以在Python上面安装PIL，安装的环境是ubuntu12.04, Python 2.7.3, GCC 4.6.3
+description: 之前做影像处理都是用的Matlab,这次打算用Python来做，因此要在Python上面安装PIL（PYTHON IMAGE LIBRARY)，安装的环境是ubuntu12.04, Python 2.7.3, GCC 4.6.3
 ---
 
 <!--下面是正文-->
+之前做影像处理都是用的Matlab,这次打算用Python来做，因此要在Python上面安装PIL（PYTHON IMAGE LIBRARY)，安装的环境是ubuntu12.04, Python 2.7.3, GCC 4.6.3等。
+
 ## 1.Install PIL
 
     $ sudo apt-get install python-imaging
@@ -59,7 +61,8 @@ description: 之前做影像处理都是用的Matlab, 但这次打算用Python�
 - 官方文档 <http://effbot.org/imagingbook/>
 - 数字图像处理PIL的一个实例 <http://blog.sina.com.cn/s/blog_4b5039210100f6ki.html>
 - 一篇关于如何成为Python高手的文章，是从 How to become a proficient Python programmer 这篇文章翻译而来的 <http://www.zhizhihu.com/html/y2011/3093.html>
-- 把图片的数据变换成数组http://blog.csdn.net/zhengkarl/article/details/5731317
+- 把图片的数据变换成数组 <http://blog.csdn.net/zhengkarl/article/details/5731317>
+- Python图形图像处理库的介绍之Image模块 <http://tojaoomy.iteye.com/blog/1413810>
 
 --------------
 ## 3.References:
