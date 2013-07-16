@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 夢開始的時候——记在台四个月的体会（下）
+title:  交织梦想——记在台四个月的体会（下）
 author: Taffy
 category: posts
 description: 豬小曄說一個美麗的夢就要結束了，其實一個美麗的夢才剛剛開始的吧
