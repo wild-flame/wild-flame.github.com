@@ -4,3 +4,4 @@ _site/
 _*.markdown
 _*.md
 _*.textile
+*~

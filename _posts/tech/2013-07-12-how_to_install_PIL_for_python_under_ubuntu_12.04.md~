@@ -63,7 +63,8 @@ description: 之前做影像处理都是用的Matlab,这次打算用Python来做
 - 一篇关于如何成为Python高手的文章，是从 How to become a proficient Python programmer 这篇文章翻译而来的 <http://www.zhizhihu.com/html/y2011/3093.html>
 - 把图片的数据变换成数组 <http://blog.csdn.net/zhengkarl/article/details/5731317>
 - Python图形图像处理库的介绍之Image模块 <http://tojaoomy.iteye.com/blog/1413810>
-
+- 微博关键字图片生成算法 <http://ued.ctrip.com/blog/?p=2471>
+- Matplotlib的官方文档 <http://matplotlib.sourceforge.net/Matplotlib.pdf>
 --------------
 ## 3.References:
 

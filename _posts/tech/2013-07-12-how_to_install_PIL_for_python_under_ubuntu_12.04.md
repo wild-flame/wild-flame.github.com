@@ -56,6 +56,22 @@ description: 之前做影像处理都是用的Matlab,这次打算用Python来做
 
 --------------
 
+## Pygame的安装
+
+如果输入 
+
+	pip intsall Pygame 
+
+会出现下面的错误
+
+	No such file or directory: '/home/×××××/build/Pygame/setup.py'
+
+使用就可以
+ 
+	pip install http://www.pygame.org/ftp/pygame-1.9.1release.tar.gz
+
+可以详细看关于这个Bug的issue讨论：<https://bitbucket.org/pygame/pygame/issue/59/pygame-has-no-pypi-page-and-cant-be>
+
 ## 2.有用的参考资料：
 
 - 官方文档 <http://effbot.org/imagingbook/>
