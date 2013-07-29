@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ［Python］ubuntu 12.04下面安装影像处理的库PIL的安装以及一些实用的资料
+title: ［Python］ubuntu 12.04下面安装影像处理的库PIL的安装, Pygame的安装，以及一些实用的资料整理
 author: Taffy 
 category: tech
 description: 之前做影像处理都是用的Matlab,这次打算用Python来做，因此要在Python上面安装PIL（PYTHON IMAGE LIBRARY)，安装的环境是ubuntu12.04, Python 2.7.3, GCC 4.6.3
@@ -60,15 +60,15 @@ description: 之前做影像处理都是用的Matlab,这次打算用Python来做
 
 如果输入 
 
-	pip intsall Pygame 
+    pip intsall Pygame 
 
 会出现下面的错误
 
-	No such file or directory: '/home/×××××/build/Pygame/setup.py'
+    No such file or directory: '/home/×××××/build/Pygame/setup.py'
 
 使用就可以
  
-	pip install http://www.pygame.org/ftp/pygame-1.9.1release.tar.gz
+    pip install http://www.pygame.org/ftp/pygame-1.9.1release.tar.gz
 
 可以详细看关于这个Bug的issue讨论：<https://bitbucket.org/pygame/pygame/issue/59/pygame-has-no-pypi-page-and-cant-be>
 
