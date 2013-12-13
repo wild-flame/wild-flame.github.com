@@ -1,4 +1,4 @@
 markdown: rdiscount 
-pygments: false
+pygments: true
 exclude: []
 permalink: /:title

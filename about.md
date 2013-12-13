@@ -13,11 +13,11 @@ description:  Daydreamer/ 空之軌跡/ Half Geeker/ 100% Student/ 動漫愛好�
 
 <p>大家好，我叫David Lin, Taffy是David的昵稱。</p>
 
-- 曾就讀于[哈爾濱工業大學Harbin Institute of Technology][HIT]
+- 目前就读于[哈爾濱工業大學Harbin Institute of Technology][HIT]
 
 	- [電子與信息工程學院 School of Electronics and Information Engineering][HIT_SEIE]
 
-- 目前就讀于台灣[國立交通大學 National Chiao Tung University][NCTU]
+- 曾就讀于台灣[國立交通大學 National Chiao Tung University][NCTU]当交换生。
 
 	- [資訊工程學院 Department of Computer Science][CS_NCTU]
 
