@@ -10,7 +10,7 @@ h2.title span { font-size: 38px; line-height: 48px; display: block; letter-spaci
 /* -------------------------------------------------------------------------------------------------------------------------
 img_grid of images
 ---------------------------------------------------------------------------------------------------------------------------- */
-#img_grid { margin: 150px 0; }
+#img_grid { margin: 250px 0; }
 /*
 Add the transition affect to the images in the img_grid. Any changes to the element will be transtioned from it's current state, for example on :hover */
 #img_grid li { float: left; list-style: none; margin: 0 25px 25px 0; position: relative; overflow: hidden; border-top: 1px solid rgba(255, 255, 255, 0.25);
