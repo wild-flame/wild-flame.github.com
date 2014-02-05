@@ -65,11 +65,11 @@ Everyday
 
 這是交大的校園。
 
-<a href="http://imgur.com/tbRuoHx.jpg"><img src="http://i.imgur.com/tbRuoHx.jpg" title="NCTU" width=100% /></a>
+<a href="http://imgur.com/tbRuoHx.jpg" title="交大校园" ><img src="http://i.imgur.com/tbRuoHx.jpg" title="NCTU" width=100% /></a>
 
 這裏是二餐
 
-<a href="http://imgur.com/zdndXf6.jpg"><img src="http://i.imgur.com/zdndXf6.jpg" title="Hosted by imgur.com" width=100% /></a>
+<a href="http://imgur.com/zdndXf6.jpg" ><img src="http://i.imgur.com/zdndXf6.jpg" title="NCTU_cafe" width=100% /></a>
 
 4.13
 
@@ -139,3 +139,12 @@ Everyday
 
 <a href="http://imgur.com/iFiuFTI.jpg"><img src="http://i.imgur.com/iFiuFTI.jpg" title="British" width=100% /></a>
 
+<script>
+
+{
+  $(document).ready(function(){
+      $('article a').attr('data-lightbox','roadtrip'); 
+      });
+}
+
+</script>
