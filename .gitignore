@@ -5,3 +5,6 @@ _*.markdown
 _*.md
 _*.textile
 *~
+
+*.swp
+
