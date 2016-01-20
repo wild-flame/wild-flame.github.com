@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wildflame</title>
+    <description></description>
+    <link>http://blog.wildflame.com/</link>
+    <atom:link href="http://blog.wildflame.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 20 Jan 2016 21:03:42 +0800</pubDate>
+    <lastBuildDate>Wed, 20 Jan 2016 21:03:42 +0800</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>关于HCI的碎碎念</title>
+        <description>&lt;p&gt;马上就要回去读书了，这篇就碎碎念一下HCI这门学科。&lt;/p&gt;
+
+&lt;h1 id=&quot;hciuxui&quot;&gt;什么是HCI？UX/UI？&lt;/h1&gt;
+
+&lt;p&gt;HCI是一个很神奇的方向，而且不同的学校有时候会放到不同的学院。&lt;/p&gt;
+
+&lt;p&gt;不过比较传统的还是从计算机里出来的。（因为，在没有计算机之前，根本就不存在交互设计这一说法啊）&lt;/p&gt;
+
+&lt;p&gt;这样看来，这个方向是整个CS方向里最神奇的方向，没有之一，不仅涉及艺术，还涉及心理学。&lt;/p&gt;
+
+&lt;p&gt;UX/UI只是HCI的一个分支，就是说HCI大于UX/UI，UI又约等于但小于平面设计，平面设计又属于工业设计。UX的话也有很多东西又要涉及心理学，UX可不是什么艺术啊！==&lt;/p&gt;
+
+&lt;p&gt;一般的学校，HCI一般都放在CS下面，而工业设计大多却放在电机或者艺术系里面。&lt;/p&gt;
+
+&lt;p&gt;反正HCI就是交叉交叉交叉学科，上个图。&lt;br /&gt;
+&lt;img src=&quot;/images/fe270d57365902f02fe8729b10e298b0_b.jpg&quot; alt=&quot;HCI&quot; title=&quot;HCI&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;hci&quot;&gt;HCI的研究是什么样的？&lt;/h1&gt;
+
+&lt;p&gt;不要以为研究都是很无聊的事情。HCI很酷炫的！不信啊？不信看下面。&lt;/p&gt;
+
+&lt;p&gt;盗了导师的图… 科技感十足啊。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/84f10b67d440db062d93894ad3f6daf3_b.jpg&quot; alt=&quot;Collaborative video searching on a TableTop&quot; title=&quot;Collaborative video searching on a TableTop&quot; /&gt;&lt;br /&gt;
+—— Físchlár-DiamondTouch : Collaborative video searching on a TableTop&lt;br /&gt;
+&lt;img src=&quot;/images/50754e12c4a3f1acfd4171e5fb74f104_b.jpg&quot; alt=&quot;Generic Menu System for Multi-touch Wall&quot; title=&quot;Generic Menu System for Multi-touch Wall&quot; /&gt;&lt;br /&gt;
+—— Generic Menu System for Multi-touch Wall&lt;/p&gt;
+
+&lt;p&gt;当然，这只是一个小小侧面啦，HCI可以研究的东西实在是太多了。其实也有人专门研究HCI理论的，设计理论啊一堆堆的，跟软件工程的那堆理论一样看不懂啊= =…&lt;/p&gt;
+
+&lt;p&gt;就是说虽然设计和研究的目的不同，但是好的设计和好的研究却是一样的。不仅让人耳目一新，也非常实用。&lt;/p&gt;
+
+&lt;h1 id=&quot;section&quot;&gt;总结&lt;/h1&gt;
+
+&lt;p&gt;HCI就是这样一个有意思的方向，一方面研究计算机，研究非常科学，非常理性，非常有逻辑的东西。另一方面，又会去研究设计，研究心理，研究人，去研究非常感性，非常Human的东西。就是这两个矛盾的东西，科技与人文，就像两种不同的力量，交织在一起，改变这我们每一天的生活。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jun 2015 10:48:00 +0800</pubDate>
+        <link>http://blog.wildflame.com/hci.html</link>
+        <guid isPermaLink="true">http://blog.wildflame.com/hci.html</guid>
+        
+        
+        <category>tech</category>
+        
+      </item>
+    
+      <item>
+        <title>潇洒的面对死亡</title>
+        <description>&lt;p&gt;这几个月来，经历了化疗，游走在生死的边缘。&lt;/p&gt;
+
+&lt;p&gt;可我仍然不敢说自己可以直面死亡了。&lt;/p&gt;
+
+&lt;p&gt;一直在想，人对死亡的恐惧，到底来源于什么。&lt;/p&gt;
+
+&lt;h1 id=&quot;section&quot;&gt;一&lt;/h1&gt;
+
+&lt;p&gt;从进化论的角度来看死亡这个问题。&lt;/p&gt;
+
+&lt;p&gt;一个物种，如果能够担心死亡，才能够不被世界所淘汰，否则的话，这样的物种可能先就灭绝了吧。&lt;/p&gt;
+
+&lt;p&gt;但是也有例外，那就是一个物种在已经延续了后代以后，死亡也许能够更好的帮助这个物种活下去，比如螳螂，比如大马哈鱼。这些物种在面对死亡的时候，大概会有一种无法抗拒的使命感在里面吧。&lt;/p&gt;
+
+&lt;h1 id=&quot;section-1&quot;&gt;二&lt;/h1&gt;
+
+&lt;p&gt;死亡就是一个无解的问题。&lt;/p&gt;
+
+&lt;p&gt;但是总有一些方法来看待死亡。当死神来敲门的时候，你只要大声的告诉他：”Not today“。这样就好了。&lt;/p&gt;
+
+&lt;p&gt;佛教也有一些很不错的观点，比方说，人生的”无常“，死亡的”无常“，以及死得必然性，无常说的就是一件事情进行的状态或者是生命的状态是不可以预测的，随时都可能继续或者停止。要明白，死是生得一部分，任何人都是无法避免死亡的。&lt;/p&gt;
+
+&lt;p&gt;中国传统的儒家对”生死之道“也有解释，”未知生，焉知死“，生死就是相依的。&lt;/p&gt;
+
+&lt;h1 id=&quot;section-2&quot;&gt;三&lt;/h1&gt;
+
+&lt;p&gt;癌症也是一个无解的问题。&lt;/p&gt;
+
+&lt;p&gt;我自己是一个科幻迷，多年前曾经看过一篇长篇科幻叫做《计算中的上帝》，里面虚构了外星物种，而所有的物种都会有癌症，包括了这些外星物种，然而，正是因为这些基因上的缺陷，最后所有的物种才能统一起来，成为”计算中的上帝“。这大概是一个比较完美的设定了。&lt;/p&gt;
+
+&lt;p&gt;面对死亡，有两个可能的选择。第一个是逃避它，不去想任何和死亡相关的问题，第二个选择是去面对它，去深入的了解死亡，了解死亡的本质，了解死亡的一切。&lt;/p&gt;
+
+&lt;p&gt;面对疾病的时候就难以这样从容了，但凡生物都会遭遇疾病，遇上严重的疾病，没有办法去逃避，只能去面对。疾病是无法避免的事情，这是大自然的一个事实。&lt;/p&gt;
+
+&lt;p&gt;所以，在面对死亡的时候，如果也有同样的态度：”是的，死亡是生命的一个部分“，那么我们也可以更加的从容去面对了。&lt;/p&gt;
+
+&lt;p&gt;癌症是所有疾病里最让人谈之色变的一种疾病，基本上伴随了人类的历史。随着医疗水平的不断的进步，其他疾病的发生越来越少，越来越多的人死于癌症。”Cancer“一个词，就像一个禁忌一样，大家尽量不去提它。&lt;/p&gt;
+
+&lt;p&gt;癌症就像一个黑洞一样，吸走了金钱，吸走了亲近的人的正常的生活。&lt;/p&gt;
+
+&lt;h1 id=&quot;section-3&quot;&gt;四&lt;/h1&gt;
+
+&lt;p&gt;我原本是不那么害怕死亡的，但是，想到那些还没有来得及去爱的人，我就非常非常的害怕了。&lt;/p&gt;
+
+&lt;p&gt;人之将死，心理的变化真是非常非常的复杂。&lt;/p&gt;
+
+&lt;p&gt;第一，大概就是恐惧和忧虑。对死亡的恐惧，对家庭的忧虑，对父母对子女的忧虑。这些负面情感挥之不去。&lt;/p&gt;
+
+&lt;p&gt;第二，就是麻木了。一番打击过来，身体精神无法适应，对周围的一切都显得麻木不仁。很多人将去之时都是这个状态。住院的时候，对铺的老爷爷每天都在睡觉，一天睡上十几个小时。&lt;/p&gt;
+
+&lt;p&gt;第三，就是悔恨了。后悔没有来得及做的事情，没有来得及吃的东西，没来得及感谢的人，还有没有见到的恩人亲人。&lt;/p&gt;
+
+&lt;p&gt;第四，才是坦然。想明白了一切之后，觉得一切都坦然了，事实就是事实，接受着一切，过好最后的日子，每个人其实都一样，拥有的只有现在。“Futrue”只是一个摸不到的希望而已。&lt;/p&gt;
+
+&lt;h1 id=&quot;section-4&quot;&gt;五&lt;/h1&gt;
+
+&lt;p&gt;虽然说，我也不知道自己的死期是什么时候，但是总希望自己走的那一天能够潇洒的面对死亡。&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Feb 2015 21:37:00 +0800</pubDate>
+        <link>http://blog.wildflame.com/facing_death.html</link>
+        <guid isPermaLink="true">http://blog.wildflame.com/facing_death.html</guid>
+        
+        
+        <category>diary</category>
+        
+      </item>
+    
+      <item>
+        <title>【CancerFree】入院记后 &amp; 第一次化疗</title>
+        <description>&lt;h1 id=&quot;before-chemo&quot;&gt;化疗前 Before-Chemo&lt;/h1&gt;
+
+&lt;p&gt;入院以后就是周末了。&lt;/p&gt;
+
+&lt;p&gt;Day 3&lt;/p&gt;
+
+&lt;p&gt;早饭吃的三个铜锣烧，很好吃诶。&lt;/p&gt;
+
+&lt;p&gt;Hoywon，我的导师，以及Sherry佳碧都来探望我咯，真好。&lt;/p&gt;
+
+&lt;p&gt;周末过的很平常，洗了澡，见了好多人呵呵，见到可爱的蚂蚁咯。&lt;/p&gt;
+
+&lt;p&gt;刚刚住院，不能出院，就在医院里面见人咯。好吧，刚刚住进医院，一切都还可以，就是住院费太贵，条件也没有很好。&lt;/p&gt;
+
+&lt;p&gt;Day 4&lt;/p&gt;
+
+&lt;p&gt;今天医院一个超级好的护士给放了Chemo的教育片，就是化疗的时候需要注意的一些注意事项啦。&lt;/p&gt;
+
+&lt;p&gt;晚上的时候亲亲回去咯，不过宇人在这里陪我呢，给我放的老男孩看，虽然有点低俗但确实还是挺好笑的。&lt;/p&gt;
+
+&lt;p&gt;Day 5&lt;/p&gt;
+
+&lt;p&gt;今天的早饭是3块Bread + 碎鸡蛋 + Milo（一种味道酷似高乐高的饮料），感觉医院的早饭一直都还不错啦。&lt;/p&gt;
+
+&lt;p&gt;然后去看了心脏。医生说我的心脏看上去很Strong。所以化疗的话，我还是有些优势的。&lt;/p&gt;
+
+&lt;p&gt;看牙，整体还不错了，发现自己的四颗尽头牙其实都长好了，不过有三颗智齿是横着长的，没有长出来，难怪我一直觉得没长。医生说这样的情况Okay啦，化疗不会发炎什么的，所以一颗悬着的心又放下了。&lt;/p&gt;
+
+&lt;p&gt;午饭是胡萝卜 + 白萝卜 + 牛肉 + 米饭，医院的饭其实味道都差不多，目前为止食欲都还不错了，趁着能吃的时候多吃一点。&lt;/p&gt;
+
+&lt;p&gt;下午去了生殖中心，其实是为了去采集精子去了，因为化疗可能会影响到生殖系统，所以提前存一些在精子库里，不过因为我的时间很短，所以只能存两次而已，如果失去生育能力的话，只有试管婴儿了。人工授精需要大概一两周的精子的量，我的不太够的样子。女朋也跟着去看了，一个老头子医生。&lt;/p&gt;
+
+&lt;p&gt;下午茶是巧克力威化 + Apple Juice + Milo&lt;/p&gt;
+
+&lt;p&gt;晚饭吃的意大利面 + 牛排 + 罗宋汤 + Pure Apple Juice + Apple，意大利面很难吃，牛排还不错。&lt;/p&gt;
+
+&lt;p&gt;Day 6&lt;/p&gt;
+
+&lt;p&gt;今天植入了PICC管，就是一根连到心脏的管子，运气好的话就可以一直保留到化疗结束的时候，这根管子很好用，极大的减轻了我每天扎针的痛苦。&lt;/p&gt;
+
+&lt;p&gt;今天宇人和小盒子都在，今天给父母弄签证的材料。宇人又放了一次老男孩。 大家笑High了。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;section&quot;&gt;化疗第一周&lt;/h1&gt;
+
+&lt;p&gt;Day 7 化疗第一天&lt;/p&gt;
+
+&lt;p&gt;早饭吃的是3个松饼 + 鸡蛋 + 1盒牛奶&lt;/p&gt;
+
+&lt;p&gt;午饭吃的是冬阴功鱼 + 白菜萝卜 + Juice&lt;/p&gt;
+
+&lt;p&gt;今天又收集了精子，因为化疗可能会影响到生殖系统，所以提前存了一些在精子库里。加上之前的那次，一共收集了两次精子。&lt;/p&gt;
+
+&lt;p&gt;另外今天看豪斯医生，里面说了一句话，觉得很有意义，就把它记下来了&lt;/p&gt;
+
+&lt;p&gt;这句话是 “You can only live with dignity, you can never die with dignity.”&lt;/p&gt;
+
+&lt;p&gt;Day 8 化疗第二天&lt;/p&gt;
+
+&lt;p&gt;见到了杨杰，很开心啦。一点化疗的感觉都没有，化疗很轻松的就过去了。&lt;/p&gt;
+
+&lt;p&gt;Day 9 化疗第三天&lt;/p&gt;
+
+&lt;p&gt;父母终于到了。&lt;/p&gt;
+
+&lt;p&gt;第二次见到了Ricky，RIcky是学校负责研究生部门的主管，非常好的一个人，最开始的时候的那一堆事情就是他在帮忙在办的。另外他在台湾清大读得书，就在交大的旁边。还是挺有缘分的人咯。&lt;/p&gt;
+
+&lt;p&gt;有一点感觉气紧了，呼吸不顺，大概是心理作用吧。&lt;/p&gt;
+
+&lt;p&gt;今天做了许多事情。&lt;/p&gt;
+
+&lt;p&gt;我的血型一直是B+，到了新加坡就变成了O+，所以像是血型改变了。爸妈跟医生提出了这个事情。&lt;/p&gt;
+
+&lt;p&gt;Day 10 化疗第四天&lt;/p&gt;
+
+&lt;p&gt;早上查了心电图，从心电图上看，像心肌梗塞，所以中午又照了心电图。同时也照了X-ray，下午左右又查了一次心电图。另外导师抽时间过来看我咯，很开啦！&lt;/p&gt;
+
+&lt;p&gt;化疗的副作用出来了，不过我比大多数人都好，目前我的不舒服就只有一个，就是肚子不舒服，而且应该也不是化疗照成的，活动的太少了。&lt;/p&gt;
+
+&lt;p&gt;Day 11 化疗第五天&lt;/p&gt;
+
+&lt;p&gt;今天吃的饭菜是Chinese Set，全天。&lt;/p&gt;
+
+&lt;p&gt;白天冥想了一下下，不过中途被打断了。&lt;/p&gt;
+
+&lt;p&gt;拉便便好多了。早饭吃的糕。晓禾子买了好多好吃吃的。&lt;/p&gt;
+
+&lt;p&gt;跟女友一起看了一部分在云端。看到一半，接触到了背包理论啦。&lt;/p&gt;
+
+&lt;p&gt;父母在旁边还是觉得很安心的，老爸还是一样的靠谱，老妈还是一样的啥都觉得不妥，这里弄弄那里弄弄啊。挺好的，熟悉的感觉。&lt;/p&gt;
+
+&lt;p&gt;然后今天听到PICC的管子如果Infection了会很严重了，一定要非常非常的注意卫生，就像Sheldon一样就好了。&lt;/p&gt;
+
+&lt;p&gt;Day 12  化疗第六天&lt;/p&gt;
+
+&lt;p&gt;早上的饭是三个面包+鸡蛋+Milo+牛奶啦&lt;/p&gt;
+
+&lt;p&gt;中午是Juice，鱼，汤和香蕉和一般的饭。&lt;/p&gt;
+
+&lt;p&gt;今天早晨的时候一个人在画画哦。画了两个杯子，其实挺丑得。&lt;/p&gt;
+
+&lt;p&gt;化疗的话需要大量大量的喝水的哦，今天的目标是8杯水啦。&lt;/p&gt;
+
+&lt;p&gt;等女友过来看在云端咯。&lt;/p&gt;
+
+&lt;p&gt;顺便等爸妈把书拿来嘛，这几天都没有发烧嘞。&lt;/p&gt;
+
+&lt;p&gt;跟女友在一起，才是最幸福的事情哈。&lt;/p&gt;
+
+&lt;p&gt;Day 13 化疗第7天&lt;/p&gt;
+
+&lt;p&gt;早上吃的三个面包+一块肉&lt;/p&gt;
+
+&lt;p&gt;今天画了两幅画，一辆火车，一个Luffy。&lt;/p&gt;
+
+&lt;p&gt;下午的时候拉了好多好多。&lt;/p&gt;
+
+&lt;p&gt;晚上好像就有一些拉肚子了。。&lt;/p&gt;
+
+&lt;p&gt;不过肚子一下子就排空了好多东西啊。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;section-1&quot;&gt;化疗第二周&lt;/h1&gt;
+
+&lt;p&gt;Day 14 化疗第8天 最后一份药水&lt;/p&gt;
+
+&lt;p&gt;今天的早饭是三片面包，两片熏肉，一块鸡蛋。&lt;/p&gt;
+
+&lt;p&gt;一大早就起来，上了一下子厕所。&lt;/p&gt;
+
+&lt;p&gt;昨天晚上肚子一直不舒服，一晚上都没有睡好觉。不过除了这个就没有别的不舒服的感觉啦。&lt;/p&gt;
+
+&lt;p&gt;化疗的副作用应该快要来咯。&lt;/p&gt;
+
+&lt;p&gt;昨天晚上发了微博了，一下子好多人就知道了。&lt;/p&gt;
+
+&lt;p&gt;Day 15 化疗开始第9天 停药第一天&lt;/p&gt;
+
+&lt;p&gt;今天的早饭时两块面包，碎鸡蛋。&lt;/p&gt;
+
+&lt;p&gt;昨天晚上肚子疼了一晚上，做了好多梦，梦到了好多东西。梦到了台湾，梦到了济南，梦到了美好的东西与开心的东西。肚子半夜的时候自己就好了。睡觉果然有奇效啊。&lt;/p&gt;
+
+&lt;p&gt;早上看到一则小故事。故事其实很简单。就是讲一个白血病男孩和女孩的故事。看到就哭了。&lt;/p&gt;
+
+&lt;p&gt;今天过得很平常，早上画了一会儿画。基因检测的结果出来了，结果还是Standard Risk，，等于没有结果，其实对于治疗没有什么影响啦，主要还是看自己咯，好好的调养自己的身体。&lt;/p&gt;
+
+&lt;p&gt;昨天参悟了一下佛教的生死观。生死其实也不是那么大不了的事情。有亲爱的在身边，有父母在身边，经历了那么多开心的事情。这样也就够了。&lt;/p&gt;
+
+&lt;p&gt;生死都被叫做无常。仔细想想自己也算是死里逃生的人了，经历了好几次地震，生死就是一瞬间的事情。&lt;/p&gt;
+
+&lt;p&gt;自己实在是太年轻了吧，不过正是由于有了苦难，才有办法去参透生死。&lt;/p&gt;
+
+&lt;p&gt;母亲实在是太焦虑了。&lt;/p&gt;
+
+&lt;p&gt;Day 16 化疗开始第10天 停药第二天&lt;/p&gt;
+
+&lt;p&gt;今天特别的累，头一天就没有休息好。心跳也很快。输了红血球。血型改变的问题解决了，是一个很复杂的生物学原因，不过还好我搞明白了。还以为是一个世界难题。没想到这么容易就解决了。&lt;/p&gt;
+
+&lt;p&gt;照了X-ray.&lt;/p&gt;
+
+&lt;p&gt;今天来了好多人，包括Head of Pillar，佳碧，宇人和刘瑞，还有邓哥的朋友的朋友，最后还有就是小盒子。&lt;/p&gt;
+
+&lt;p&gt;有点发烧，不过没有上38度，暂时还不需要用抗生素咯。&lt;/p&gt;
+
+&lt;p&gt;Day 17 化疗开始第11天 停药第三天 9/27 周六&lt;/p&gt;
+
+&lt;p&gt;今天的早饭时Pancake，很好吃很好吃的。&lt;/p&gt;
+
+&lt;p&gt;父母和Liu Jing说好了，真的挺不错的。我就觉得Liu Jing是一个很靠谱的人啦。今天和父母亲讨论然后回忆了可能的造成我疾病的东西。果然还是说到了那张床，家里的那张床或者什么挥发性的东西。不在家里的话，就不会那么明显感觉到鼻子眼睛不舒服哒。&lt;/p&gt;
+
+&lt;p&gt;其实现在再去回忆是什么东西造成的疾病也没有什么意义了吧。永远都没办法确定到底是什么原因照成的。&lt;/p&gt;
+
+&lt;p&gt;我在想，我的肚子疼会不会是神经性的？就是自己吓自己照成的？有可能诶，试试冥想吧。今天冥想了好长一段时间的。&lt;/p&gt;
+
+&lt;p&gt;目前看来，我最大的副作用就是肚子疼。没有别的不舒服的地方。&lt;/p&gt;
+
+&lt;p&gt;收到李辰光的短信，不过不知道怎么回。谢谢啦。辰光的短信应该是真的是非常的有帮助啊。同理心和同情心，给人的感觉真的不一样诶。辰光是不是也有一段类似的经历的么？是什么样的经历呢？&lt;/p&gt;
+
+&lt;p&gt;Tuesdays with morris 应该是一本好书啦。好好看一下。&lt;/p&gt;
+
+&lt;p&gt;Day 18  9月28日 化疗开始第12天 停药第四天&lt;/p&gt;
+
+&lt;p&gt;晚上经历了一场抽搐。感觉跟癫痫一样。吓死人了。无法控制自己的肌肉，被感染的太厉害了。升温之前的抽搐。&lt;/p&gt;
+
+&lt;p&gt;今天一天白天都在休息，升温，降温，吃药，升温，降温，吃药啦。&lt;/p&gt;
+
+&lt;p&gt;肚子不疼了。&lt;/p&gt;
+
+&lt;p&gt;与其说西医是治疗人的疾病，宗教是治疗人的心灵。&lt;/p&gt;
+
+&lt;p&gt;今天晚上冥想过后，觉得内心非常的平静。&lt;/p&gt;
+
+&lt;p&gt;突然觉得自己是最幸运的。The Lukiest Person in the world.&lt;/p&gt;
+
+&lt;p&gt;Day 19 9月29日 化疗开始第13天 停药第五天&lt;/p&gt;
+
+&lt;p&gt;今天身体好些了，另外打开电视刚好就在放自己喜欢的电影，所以我其实好像看了一天的电影。&lt;/p&gt;
+
+&lt;p&gt;Inside Man / Oblivion&lt;/p&gt;
+
+&lt;p&gt;有两个电影印象实在是很深，第一个是Inside Man，从中途开始看的啦，不过很好看。查了一下豆瓣据说导演是纽约城市诗人，这么屌。&lt;/p&gt;
+
+&lt;p&gt;不过电影确实很有诗的味道，好评。&lt;/p&gt;
+
+&lt;p&gt;第二个是阿汤哥和摩根爷演得Oblivion，本来头一天晚上打开电视发现在放的，没有看，没想到刚好今天重播了，于是从头到尾看了一遍。片子很经典，得分却不高。大概是幻咪&lt;/p&gt;
+
+&lt;p&gt;Day 20 9月30日 化疗开始第14天 停药第六天&lt;/p&gt;
+
+&lt;p&gt;梦回9班。九班同学的前世今生。&lt;/p&gt;
+
+&lt;p&gt;遇见慈济的人了。&lt;/p&gt;
+
+&lt;p&gt;The Kite Runner。&lt;/p&gt;
+
+&lt;p&gt;阿富汗，友情，友谊。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;section-2&quot;&gt;化疗第三周&lt;/h1&gt;
+
+&lt;p&gt;Day 21 10月1日 化疗开始第15天 停药第七天&lt;/p&gt;
+
+&lt;p&gt;报告出结果了，基本可以靠化疗解决。&lt;/p&gt;
+
+&lt;p&gt;梦见了好多人，收到了两封邮件，有空回。&lt;/p&gt;
+
+&lt;p&gt;Day 22-26 10月2日-6日&lt;/p&gt;
+
+&lt;p&gt;从22号身上开始起疹子。一下子起了好多，应该是过敏了。&lt;/p&gt;
+
+&lt;p&gt;一直到今天6号，这几天真的是煎熬啊。全身过敏真心是一件折磨人身心的事情啊，而且一下子就长满全身，慢慢变黑，实在是恐怖至极。由于发展的速度和我打Antibiotic的速度一样快，以至于我一度以为我是对它过敏了。&lt;/p&gt;
+
+&lt;p&gt;让我过敏的是一种叫Allopurinol的药物，这种药非常恶心，过敏现象延迟发生，而且停药后会继续过敏，所以我的过敏实在是折磨人。过敏之后我好好研究了一番这个药物和过敏现象，以及人体的免疫功能。&lt;/p&gt;
+
+&lt;p&gt;终于今天6号，体温恢复了，不过手指脚趾的痒实在是难受。&lt;/p&gt;
+
+&lt;p&gt;今天好些了，继续记日记，睡了，安。&lt;/p&gt;
+
+&lt;p&gt;希望明天能不那么痒了。&lt;/p&gt;
+
+&lt;p&gt;Day 27 10月7日&lt;/p&gt;
+
+&lt;p&gt;今天是女友的生日，也可以看做是我们谈恋爱的三周年纪念日吧。这就整整三年时间了，就这样就过来了。想起了这也是我修来的福分，这样一个关头生病，女友还能天天陪在身边，真是幸福的事情。&lt;/p&gt;
+
+&lt;p&gt;不过尾巴骨那里开始有些不舒服了，不打算坐床上了，做到了板凳上面，会好很多，坐到床上的话，一下子就会觉得很胀，这种很胀很胀的感觉是随着心跳一下一下的，住院的这段时间，大概是我这辈子感受心跳最多的时候吧。我刚入院的时候心率是70左右，最高的时候大概是110，就是发疹子的那几天，再往后就又开始好转了，今天大概是80-90左右吧，出院的时候希望能够好一些，到时候红血球恢复了，心率应该能够恢复回去的吧。&lt;/p&gt;
+
+&lt;p&gt;化疗也就那么回事了吧，一切都会过去的。&lt;/p&gt;
+
+&lt;p&gt;没想到又发烧了，烧回38度了。实在是，细菌无处不在啊。&lt;/p&gt;
+
+&lt;p&gt;给女友买了Tiffany的戒指，不过我的和她的大小都不大合适，希望她能喜欢啦。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;section-3&quot;&gt;化疗第四周 - 出院&lt;/h1&gt;
+
+&lt;p&gt;Day 28 10月8日&lt;/p&gt;
+
+&lt;p&gt;今天退烧了，没想到中午的时候尾骨突然开始疼了。&lt;/p&gt;
+
+&lt;p&gt;医生说白细胞一直没有长起来不大对劲，打算看一下显微镜下的情况，明天再跟我说，过敏的情况好多了。&lt;/p&gt;
+
+&lt;p&gt;今天写了一封信给大家，放在了FB上面，真的很想念。&lt;/p&gt;
+
+&lt;p&gt;Day 29 10月9日&lt;/p&gt;
+
+&lt;p&gt;今天一大早医生就带来一个不大好的消息，他说在血液里看到了不成熟的白细胞，很有可能是最后剩下那点点癌细胞又回来了。&lt;/p&gt;
+
+&lt;p&gt;于是原本计划的骨髓穿刺的时间就提前了，如果说结果不大好的话，可能尽快就要开始第二次化疗了，第二次化疗的药会更强，希望能够把癌细胞都杀死掉掉。&lt;/p&gt;
+
+&lt;p&gt;真不是一个好消息。&lt;/p&gt;
+
+&lt;p&gt;Day 30 10月10日&lt;/p&gt;
+
+&lt;p&gt;昨天和今天的心情就好像晴天和雨天一样。&lt;/p&gt;
+
+&lt;p&gt;昨天还是狂风暴雨，今天就雨过天晴了。&lt;/p&gt;
+
+&lt;p&gt;一大早的时候医生过来说好消息，骨髓恢复的状况非常好，他也不知道那些血液里的白细胞是在哪里看到的。不过从骨髓来看，这次化疗非常的成功，大部分的癌细胞都死光光了，正常的细胞长的非常非常的好，我母亲也一下子变的好开心！&lt;/p&gt;
+
+&lt;p&gt;然后，过了几分钟，医生又进来说，状况良好可以出院回家了，直接把我和父母都吓了一跳！根本都没有准备出院要用的任何的东西啊，甚至连出院的衣服都没有。&lt;/p&gt;
+
+&lt;p&gt;总之，还是很开心，终于可以出院了，住了30天的医院，终于可以出去看看风景啦，真心不错。&lt;/p&gt;
+
+&lt;p&gt;Day 31 10月11日&lt;/p&gt;
+
+&lt;p&gt;今天是这段时间以来在医院外面生活第一天。&lt;/p&gt;
+
+&lt;p&gt;————————————————————————&lt;/p&gt;
+
+&lt;h1 id=&quot;specially-thanks-for&quot;&gt;Specially Thanks for&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Li Xiaohe&lt;/em&gt; - My girlfriend&lt;br /&gt;
+&lt;em&gt;Zhou Yuren&lt;/em&gt; - My roommate as well as schoolmates in HIT&lt;/p&gt;
+
+&lt;p&gt;Who accompany me at the very first days.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;My Parents&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Who strongly support me both finicially and mentally&lt;/p&gt;
+
+&lt;p&gt;——————————————————&lt;/p&gt;
+
+&lt;p&gt;感谢我的父母能够在这样来到新加坡，一直想要独立的我，才发现父母永远是我这辈子是最大的靠山。&lt;/p&gt;
+
+&lt;p&gt;感谢我的朋友们，以及来看我的朋友们。&lt;/p&gt;
+
+&lt;p&gt;感谢医院的社工，营养师，医生以及药剂师们，协调员Liu Xin，以及每天辛苦的护士们。&lt;/p&gt;
+</description>
+        <pubDate>Sat, 11 Oct 2014 00:00:00 +0800</pubDate>
+        <link>http://blog.wildflame.com/chemofree.html</link>
+        <guid isPermaLink="true">http://blog.wildflame.com/chemofree.html</guid>
+        
+        <category>Cancerfree</category>
+        
+        
+        <category>diary</category>
+        
+      </item>
+    
+      <item>
+        <title>【CancerFree】病房是白色的，世界是彩色的</title>
+        <description>&lt;p&gt;我的生命中，第一次出现了“癌”这个字，对于22岁的我，感觉这一切来的太突然了，我几乎是医院里最年轻的病人。&lt;/p&gt;
+
+&lt;p&gt;接下来要进行6个月的化疗了，原本是给朋友的邮件，但是后来想到，为何不把自己的经历都分享出来让自己和别人都可以看到。把入院的所有的感悟都记下来。我也打算把这部分的经历都放在简书上面。&lt;/p&gt;
+
+&lt;p&gt;这一段，是我入院的经历。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;来新加坡之前，我对一切都充满了憧憬。我申请上了竞争非常激烈的SUTD（Singapore University of Technology and Design），学费全免，每月3000奖学金，方向是早就想读的计算机科学，小方向是人机交互（HCI）。女友也一道来到了新加坡，在NUS拿着每月2000的奖学金，方向是生物统计。新加坡的生活原本会是一种新的开始，两个人都有稳定的收入，虽然在新加坡过不上富人的生活，但是这些奖学金也可以让我们衣食无忧了。&lt;/p&gt;
+
+&lt;p&gt;谁也没想到这新的开始会是这样的一种情况。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;一&lt;/h2&gt;
+
+&lt;p&gt;2014年9月11日，入院的那一天。&lt;/p&gt;
+
+&lt;p&gt;我来到新加坡以后，我在NUS的University Health Center进行了我的体检，这便是一切的开始。第一次体检以后，血红蛋白偏低，由于医生怀疑是遗传性的镰刀形贫血症，或者是缺乏铁质照成的贫血，于是就建议我进行了第二次的复查。周四这天，正是我去领复查结果的日子。&lt;/p&gt;
+
+&lt;p&gt;这天上午，大概十点钟起来以后，我就在家里洗衣服。中午左右，我来到了学校，跟女友一同吃了午饭，之后就来到了校医院来看我的复查结果，负责我的医生是Doctor Lee.&lt;/p&gt;
+
+&lt;p&gt;”你的血液报告很Unusual。“Doctor Lee指着报告说，”我从这次报告里发现你的血小板非常低，只有7个单位，正常人大约是150个单位，你的血液可能不太正常。我需要送你去看专科医生。“&lt;/p&gt;
+
+&lt;p&gt;“是——白血病么？”我担心的问，毕竟对我来说，能够立即想到的血液疾病也只有这个了。&lt;/p&gt;
+
+&lt;p&gt;”应该不会是白细胞癌的。“医生说道，“因为你的血液里的白细胞的数量并不是特别多，基本上是正常的，我担心是你的内脏可能会出血，因为你体内的血小板非常低。“&lt;/p&gt;
+
+&lt;p&gt;”白细胞癌，就是白血病，血癌么？“我确认的跟医生问道。&lt;/p&gt;
+
+&lt;p&gt;”是的。所以你之前贫血也不是由于遗传或者缺乏铁质造成的。“医生补充道，”我想专科医生应该会比较了解。我送你去急诊，这样时间会比较快，费用也比较低，如果是直接预约血液科的医生的话，时间可能要一两周了，而且费用也比较高。“&lt;/p&gt;
+
+&lt;p&gt;”好的。“&lt;/p&gt;
+
+&lt;p&gt;……&lt;/p&gt;
+
+&lt;p&gt;于是从校医院出来以后，我便带着查血报告和校医院的介绍信，来到了NUH( National University Hospital )的急诊科室，给了我一个预约号码”1137“，可能会有人叫我的名字，也可能是这个号码。在我焦急等待的同时，女朋友也上完课了，一同来到了NUH。当屏幕上出现1137的时候，我和女友一同进到了诊断室。首先被怀疑的是登革热，但是由于我一切不适的症状都没有，也没有发烧，所以医生也不太确定，”我会联系血液科的专科医生，你们先出去等等。“&lt;/p&gt;
+
+&lt;p&gt;不一会儿就又被医生叫了进去，医生说：“专科医生了解你的情况了，我会先抽你一管血，然后大概一个小时左右就会有检查的结果。”出来以后，女友和我一直在焦急的等待血液报告的结果，我们讨论着可能性，登革热啊，紫癜啊，但是我和她都没有想到会是这最坏的可能性。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;二&lt;/h2&gt;
+
+&lt;p&gt;”1137“。屏幕上显示除了我的号码。医生将我叫了进去，”血液报告的结果出来了，专科医生也了解你的情况了，你的情况很危险，不能离开医院，需要立即住院。“看来只能是住院了。&lt;/p&gt;
+
+&lt;p&gt;”诊断的结果是？“女友和我同时问道。&lt;/p&gt;
+
+&lt;p&gt;“初步怀疑是血癌。”医生说。当我第一次听到医生说出“血癌”两个字的时候，我都还不太相信，如此小概率的事件，就好像中彩票一样，我此生买了这么多彩票，都没有中过，怎么这样的事情就让我碰上了呢。&lt;/p&gt;
+
+&lt;p&gt;“你现在的血小板很低，需要住院，不然会有内脏和脑部出血的危险，今天晚上会有人安排给你输血小板。”他说。“我首先要在你的身上插上一根管子。”&lt;/p&gt;
+
+&lt;p&gt;插上管子以后，之后就是护士跟我们说了一堆乱七八糟的事情，我的大脑此时已经处于半混乱的状态了，大意就是说我会先去Obeservation Room里，之后等楼上病床空了才会再把我送到楼上的病房，而Observation Room是不允许探视的。&lt;/p&gt;
+
+&lt;p&gt;之后，我和女友就去了诊断室的外面。&lt;/p&gt;
+
+&lt;p&gt;“无论如何我都不会离你而去的。“女友告诉我。”我会陪着你的，你进去以后，我就在外面等着你。“&lt;/p&gt;
+
+&lt;p&gt;我和女朋友在外面待了一段不长时间的时间，就上了病床。和女朋友分开之后，我被送到了Observation Room，按照专科医生的要求，医生又从我的身体里抽掉了两管左右的血。躺在病床上的我，不敢相信这一切都是真的。血癌的确诊需要骨髓穿刺才能确定，所以我想一切可能都还没有确定下来吧。在观察室里的几个小时，感觉就像好几个月的样子。我在里面输了4袋生理盐水，一直待到了凌晨，然后就被送到了六人间病房。&lt;/p&gt;
+
+&lt;p&gt;Leukemia —— 血癌，或者白血病。“白血病”，便是由于患者体内的血液里可以检测到大量未成熟的白细胞而得名。按照现在学术界和医疗界的分类，又被分为急性和慢性以及骨髓性和淋巴性。因为媒体的报道，所以这个病名对我来说其实并不陌生。不过具体对于这个病，我还是知之甚少的。从来没有想到过的是，这个病会在自己的身上被诊断出来。&lt;/p&gt;
+
+&lt;p&gt;从2014年9月12日凌晨起，我就彻底的进了医院了。&lt;/p&gt;
+
+&lt;p&gt;时间已经过了的当天的12点，迈入了第二天，我仍然没有睡。我告诉了女友我所在的地址，。&lt;/p&gt;
+
+&lt;p&gt;那天我吃了这段时间的最后两个包子，包子是在PGP买的。我在病房休息了一段时间以后，来了一个血液科的专科值班医生。专科医生跟我们说了一下情况。&lt;/p&gt;
+
+&lt;p&gt;“你好，我是今天晚上的值班医生，你的情况我和我的同事都已经全部讨论过了，你的情况我们也都已经都知道了，我的专业呢，是肿瘤和血液科”。血液科医生用不太流利的华文跟我们说道，“按照计划，明天我们会抽取你的骨髓，就是Bone marrow来进行测试啦，初步断定你应该是得了这种叫Leukemia，就是血癌，白血病啦。因为从血液切片里观察，你的血液里有大量的不成熟的白细胞，所以我们认为你这个是属于血癌，另外你的血小板也非常低，刚才应该楼下也有输血小板吧，因为我看到楼下的急诊部门有Order血小板的样子？“&lt;/p&gt;
+
+&lt;p&gt;”没有呢，当时输的应该都是盐水吧，输之前我问过输液的医生，都只是一些盐水而已啦，Pure Water。但我不确定啦，血小板应该是有颜色的吧。“我说道。&lt;/p&gt;
+
+&lt;p&gt;”没有关系，我会去Check一下。“&lt;/p&gt;
+
+&lt;p&gt;”为什么要输盐水呢？“我问。&lt;/p&gt;
+
+&lt;p&gt;”因为你体内有很多不成熟的白血球，如果他们遇到一起的话，就会凝结在一起，所以我们要输盐水来稀释他们。“&lt;/p&gt;
+
+&lt;p&gt;……&lt;/p&gt;
+
+&lt;p&gt;之后我就又休息了，不一会儿医生就又回来了。医生说，楼下确实没有输血小板，待会儿的话，我会安排护士会来给你输血小板的。&lt;/p&gt;
+
+&lt;p&gt;看看表已经两三点了，我担心女友休息的不好，她也就回去休息了，走之前，女友帮我关掉了床头的灯。一阵子以后，护士吊起了血小板，我的意识也逐渐模糊了。&lt;/p&gt;
+
+&lt;p&gt;……&lt;/p&gt;
+
+&lt;p&gt;我记得我当天做了好长好长的梦。关于梦想，关于爱情，关于父母，关于朋友，关于过去和未来，关于生命的一切有意义的与无意义的一切，当然也梦到了关于钱，生活里的琐碎且让人心烦的真实。&lt;/p&gt;
+
+&lt;p&gt;……&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;三&lt;/h2&gt;
+
+&lt;p&gt;早上的食物是中国面条和一些零碎的食物，凌晨的消息本已让我不是特别有胃口。虽然凌晨的医生已经透露了一些信息，但实际上，我依然处于无知且迷茫的状态。我不知道我的病到底有多重，我不知道会不会死，我不知道家里有没有钱来治，我都还没有勇气来告诉父母，我不知道我的父母听到这样的消息会有多么的担心。肯定会非常的难过。想到这些，我的眼眶就已经湿润了。我错过了太多生活的美好，也许，我应该花更多的时间去旅行的，去看世界上的美好，去看各种各样不同的地方，去享受生活，去爱自己喜欢的人，这一切都晚了。我花了太多年奋斗，甚至自己都忘了休息，甚至一直以为自己是一个永远不会腐朽的机器。（时间太少，欲念太多，只有想清楚了，才知道自己真正想要的是什么。）&lt;/p&gt;
+
+&lt;p&gt;大概9点钟左右的时候，我见到了我在Ward56的医生，说了好多话，就像连珠炮一样的打在我的身上，她首先说我的病情她已经了解了，说希望我能找到联系的人，她说我这边还有很多不确定的因素，也很理解我的情况。她让我联系我的Supervisor。当我问她能否联系我的女友时，她说当然，你可以告诉每一个你觉得能够Support你的人。之后医生就离开了。&lt;/p&gt;
+
+&lt;p&gt;再往后的整整一个早上，我都在看窗户的外面，心情简单的就只是不停地在想家人，爱人，钱与签证。慢慢的，简单的心情就变复杂了，也许自己就看不到外面的风景了？难道自己来到新加坡，就只能待在病房里面。说来也真是讽刺啊，在新加坡待了两周多了，连新加坡还没仔细看看，就住进了病房。Nuh，对我来说，是我全部的新加坡了吧。&lt;/p&gt;
+
+&lt;p&gt;一直等到了我的Supervisor过来，也就是Hyowon来了，这一切才开始明朗一些了。导师跟我聊了一会儿，也跟我说了好些话。大医生很忙，后来来了一个小医生，跟老师和Ginny说了很多，然后就离开了。&lt;/p&gt;
+
+&lt;p&gt;中午左右的时候，我见到了祖维，也就是医院的社工，祖维是非常好非常好的一个人，甚至觉得，如果不是他，我是不可能这么快就走出来的。我在祖维的面前大大的哭了一场，当时觉得这真是生理上的，心理上的，家庭的，经济上的多重的打击啊。这时候室友也一道过来了。&lt;/p&gt;
+
+&lt;p&gt;……&lt;/p&gt;
+
+&lt;p&gt;下午的时候，我碰见了Liu Xin，她是医院里的协调员。如果不是在新加坡的话，这乱七八糟的事情真的不可能这么容易就在一天的时间内就Seetle Down了。也就是从这时开始，我决定在新加坡接受我的治疗咯。&lt;/p&gt;
+
+&lt;p&gt;然后，我先给父亲打了电话，说了费用的问题，噩耗就这样被告诉了父母，随后，母亲也知道了这个事情。&lt;/p&gt;
+
+&lt;p&gt;……&lt;/p&gt;
+
+&lt;p&gt;原本以为大学的这几年生活，早已深深的改变了我的人生观，我以前跟人聊天的时候，总是说到感觉我从小到大都没有受到什么挫折。到了大学的时候，感觉受的挫折也已经有一些了，各种失败，各种安排不过来时间啊，这种不顺心的事情啊。不过想起这件事情，从小到大遇到的所有不顺心的事情，都比不上这一件了吧。原来，对人来说，最重要的还是生存啊。让我选择，放弃一条腿，放弃一只胳膊，一只眼睛，只要能够活下去，其实就还有希望。&lt;/p&gt;
+
+&lt;p&gt;我捐了自己的一些骨髓，一些血，这些都可以给后来得这个病的人有帮助的。希望这些都能给别人帮助的吧。其实，死亡什么的不算什么了吧，人固有一死，或轻于鸿毛，或重于泰山。生死本无常，这样才会给人能力去顿悟。&lt;/p&gt;
+
+&lt;p&gt;我还有时间去世界上的各个地方去看看，去见识一下美丽的世界。这才是最想做的事情吧。&lt;/p&gt;
+
+&lt;p&gt;……&lt;/p&gt;
+
+&lt;p&gt;————————————— 大概就是这样吧，许久没有写过东西了，写的也想尽量客观一些 ————————————&lt;/p&gt;
+
+&lt;p&gt;化疗住院的时候，其实就是休息休息，聊聊天，见见人，睡睡觉，看看医生，也没什写的，不过每天还是会有一些些的感悟和体会啦。接下来就把化疗时的体会整理整理吧。都是一些人生感悟啊乱七八糟的东西。&lt;/p&gt;
+
+&lt;p&gt;我有一堆堆想要感谢的人，父母，朋友们，女朋友。&lt;/p&gt;
+
+&lt;p&gt;最大的愿望当然是有空能够见到大家。&lt;/p&gt;
+
+&lt;p&gt;—— LDW&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Oct 2014 17:47:00 +0800</pubDate>
+        <link>http://blog.wildflame.com/in-the-hospital.html</link>
+        <guid isPermaLink="true">http://blog.wildflame.com/in-the-hospital.html</guid>
+        
+        <category>Cancerfree</category>
+        
+        
+        <category>diary</category>
+        
+      </item>
+    
+      <item>
+        <title>【CancerFree】入院以后给朋友们的第一封信</title>
+        <description>&lt;p&gt;亲爱的朋友们：&lt;/p&gt;
+
+&lt;p&gt;大家好，我在新加坡。&lt;/p&gt;
+
+&lt;p&gt;有些人可能已经知道这个信息了，有些人可能在想，到底是什么呢。我想，也是时候把这件事情告诉大家了。&lt;/p&gt;
+
+&lt;p&gt;2014年9月11日，我被诊断患有疑似血癌住院，住在病房里的，我是最年轻的一位。&lt;/p&gt;
+
+&lt;p&gt;（整个住院的经历可以说算是我人生中从起到落最大的一摔，我想我会整理出来另外一整篇文章来记录这个住院的经历的。）&lt;/p&gt;
+
+&lt;p&gt;血癌的确诊当然要等骨髓穿刺的结果，不过血液科的医生告诉我，从显微镜下观测的结果当然是百分之九十以上的准确度了，有大量不成熟的白细胞在血液当中。&lt;/p&gt;
+
+&lt;p&gt;2014年9月12日，我把消息告诉了父母，以及学校（当然理所应当的休学了）。然后，当天做了骨髓穿刺。&lt;/p&gt;
+
+&lt;p&gt;之后就确诊了Acute Leukemia，准确的说是AML with Muturation (M2)。其实AML是可以治疗的，M3型的痊愈率甚至高达90%……我要是得一个M3该多好啊。&lt;/p&gt;
+
+&lt;p&gt;好吧，之前有在微博上Po化疗最后一天加油的照片，鼓励自己要加油啦，我以为我的微博都没有人看的，可能大部分人都是从这里才知道我生病了吧，不过生得什么病，到底为什么得病都不知道吧。&lt;/p&gt;
+
+&lt;p&gt;第一，我生的病叫Acute Myeloid Leukemia，是白血病的一种，也叫血癌，一般国内是分为恶性肿瘤，也就是癌症，不过并不是绝症，只不过治好以后有一定几率会复发，根治只有通过骨髓移植，死亡的风险也就是在化疗的时候和骨髓移植的时候。&lt;/p&gt;
+
+&lt;p&gt;第二，为什么得病。关于癌症的成因，目前科学界还没有一个确定的定论。但是主流研究已经表明，环境，化学药品，辐射，抽烟，以及睡眠（根据最近的研究主要是与身体内的一种叫做褪黑素的东西有关），以及遗传基因和病毒入侵这些因素等都会导致癌症的发生率增加。单单白血病的来说，化学上的接触，特别是装修材料里的苯，甲醛，汽油里的苯，都是照成白血病的重要因素，有很大部分白血病的患者的住宅都在近期进行过装修；遗传因素当然也有，也包括病毒，抽烟对白血病没有任何影响，不过会显著增加患肺癌的几率；辐射的话，之前在广岛的调查有证实白血病患者的增加。&lt;/p&gt;
+
+&lt;p&gt;不过，关于患病的原因，当然是多种因素共同作用的结果。在日本，癌症被定义为【生活习惯病】，就是说这个病的发生，其实是和自己的各种生活习惯是有关系的。我们对于周围的环境能够做的改变不多，但是能够改变自己的生活习惯，养成一个良好的生活习惯可以有效的减少自己生这种病的概率。有些时候，感觉很遥远的事情，没想到就发生在自己身上了。&lt;/p&gt;
+
+&lt;p&gt;回想一下自己的生活习惯，最不乖的地方就是熬夜。我从小就是个夜猫子，更是喜欢上了一个喜欢夜猫子的行当，IT行业。&lt;/p&gt;
+
+&lt;p&gt;另一方面，虽然自己是一个比较随意的人，但是偏偏有完美主义的倾向，对于自己认定要做好的事情，就一定要追求极致。所以给自己的精神压力相当的大。&lt;/p&gt;
+
+&lt;p&gt;等到病好了以后，要过上新生活，至少绝对不妥协的事情就是熬夜了。然后就是要把更多的时间放在自己喜欢且随意的事情上面，多多出去旅行，摄影。继续弹自己的钢琴。然后少🐴一些代🐴。&lt;/p&gt;
+
+&lt;p&gt;好了，我给大家的不是什么好消息，但是也绝对不是什么坏消息，毕竟六个月之后，我又能像大家一样正常的生活了。&lt;/p&gt;
+
+&lt;p&gt;而且，很多时候都是塞翁失马，焉知非福。从改变我的生活习惯上来说，反倒是一个好消息。&lt;/p&gt;
+
+&lt;p&gt;而且，也给大家敲了一个警钟，身体的事情，不是你以为是什么样就是什么样的。像我，如果不是我去复查了一下，现在也许还在上课呢。于是我活蹦乱跳的进了医院，听到一个震惊的消息。所以如果你觉得身体已经是亚健康了，就要好好的去爱惜。&lt;/p&gt;
+
+&lt;p&gt;我现在身体状况好的时候，有坚持记每天的日记，希望以后能够分享给大家。&lt;/p&gt;
+
+&lt;p&gt;等我的好消息~~&lt;/p&gt;
+
+&lt;p&gt;爱你们的，东闻&lt;/p&gt;
+
+&lt;p&gt;P.S.我有收到好几封邮件，谢谢你们了，不过刚好运气不好的遇上一种叫Allopurinol的药物过敏，所以状态不太佳，在此先谢过，以后回复。&lt;/p&gt;
+
+&lt;p&gt;P.P.S请大家一定爱惜自己的身体。顺便，有空可以冥想一下，我周围的人大多都不信宗教，所以也推荐大家可以看看佛法什么的，对维持自己的心理和生理平衡很有帮助的。&lt;/p&gt;
+
+&lt;p&gt;        ﷽﷽&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 Sep 2014 16:54:00 +0800</pubDate>
+        <link>http://blog.wildflame.com/the-first-letter-to-friend-after-leukemia.html</link>
+        <guid isPermaLink="true">http://blog.wildflame.com/the-first-letter-to-friend-after-leukemia.html</guid>
+        
+        <category>Cancerfree</category>
+        
+        
+        <category>diary</category>
+        
+      </item>
+    
+      <item>
+        <title>Statement of Purpose for SUTD</title>
+        <description>&lt;h1 id=&quot;part-i-experience&quot;&gt;PART I: EXPERIENCE&lt;/h1&gt;
+
+&lt;p&gt;My life in Harbin Institute of Technology started on the September of 2010.&lt;/p&gt;
+
+&lt;p&gt;I chose to study Electric Engineering when I entered university. But as time goes by, I find that what I am more interested in is actually Computer Science.&lt;/p&gt;
+
+&lt;p&gt;The first semester of University does include a lot of study on math. I knew little about what Computer Science actually is at that time. At the end of the semester, I got the 1st place in my major and ranked 4th in my department (school) which has more than 200 students.&lt;/p&gt;
+
+&lt;p&gt;In 2011, the second semester of my freshman year, I took the course C programming language given by our university’s CS department. It was the first time that I knew anything about Computer Science. I spent much more time than other students on learning C programming Language and got 95/100 in the final.&lt;/p&gt;
+
+&lt;p&gt;This is the beginning of the story between Computer Science and me. I still thought Computer Science and Electric Engineering is about the same thing at that time.&lt;/p&gt;
+
+&lt;p&gt;In 2012, my sophomore year, I learned assembly language through MCS-51, and implemented a dialing function using MT8880 chip on it. In the second semester of my sophomore, I learned java by myself. When I grew into junior year, I completed an android app that can display a map on my mobile phone.&lt;/p&gt;
+
+&lt;p&gt;The more I learned about Electric Engineering and Computer Science, the more difference I found between them. I started to think about changing my major, but unfortunately we are not allowed to switch on subject as we grew into sophomores. However, I can still choose on how to spend my time. Much time are spent on learning computer science, while I still maintained my major’s rank between 20% ~ 30% .&lt;/p&gt;
+
+&lt;p&gt;Between Feb. 2013 ~ June. 2013, the second semester of my junior year. I got a chance to National Chiao Tung University in Taiwan as an exchange student in its department of computer science.&lt;/p&gt;
+
+&lt;p&gt;This was one of the precious times during my university life, as I could learn as a normal CS student for their courses without worrying about my own major’s grade. What’s better, NCTU is one of the best universities in Taiwan, and especially famous for its Electronics and Computer Science.&lt;/p&gt;
+
+&lt;p&gt;The course image processing in NCTU that I took is one worth mention, which is known for its hard projects. Four projects in one semester in total accounts for 80% of the final score, while the exam only makes up 20% of it. One of the most difficult projects is embedding data into a picture reversibly using difference expansion, about half of students withdrew this course because it is too hard to complete.&lt;/p&gt;
+
+&lt;p&gt;Indeed, algorithm in this project is not very complicated, but mistakes are easily made because of many boundary classification it involves. There was even an error related to boundary delimitation in one of the reference essay. I spent two weeks writing and testing the program. When the program finally worked successfully, I was as happy as winning a great award. I got to know with many concepts of image processing after the course.&lt;/p&gt;
+
+&lt;p&gt;I also taught myself Python that semester. And I undertook a project on automatic word filling in the summer holiday after the semester. I also learned Ruby on Rails systematically that holiday. After that, I have been building and maintaining a website with rails till now.&lt;/p&gt;
+
+&lt;p&gt;All in all, I learned much computer knowledge apart from courses of my original major. I learned Data structure, Formal language and Automata on the theoretical facet. On the other hand, I learned a lot of programming language, and learned how to use Linux system as well as Web developing. I created my own blog and I am maintaining a website.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;part-ii-research-interest&quot;&gt;PART II: Research Interest&lt;/h1&gt;
+
+&lt;p&gt;What makes me the person I am? It is these experiences. This is the story between me and Computer Science.&lt;/p&gt;
+
+&lt;p&gt;“Computer scientist” and “hacker” now have special meaning for me. Different from other scientists, computer scientists are creators or crafters in some way. Their researches are generated from real world problems rather than bunches of obscure theories.&lt;/p&gt;
+
+&lt;p&gt;Diversity of the Computer Science and the culture inside of it are two features which attract me most.&lt;/p&gt;
+
+&lt;p&gt;Computer influences nearly all the modern sciences. In the domain of mathematics, the famous four-color theorem is proved on the basis of computer’s powerful computing ability. As for the field of linguistics, the introducing of computer made it possible for language analysis from statistical angle by counting the frequency of every single word. In the industrial world, computer increases the automation level of assembly lines which contributes greatly to productivity.&lt;/p&gt;
+
+&lt;p&gt;Real world problems are always complicated. Regarding computer science as a multi-layered building, we have mathematicians live in the bottom of the building. They are dedicated to all sorts of mathematical theories, who do really important works, and without them the building will be unable to build. In the middle part of the building live the “classical scientists” who study traditional problems such as algorithms, Turing machine and so on. As for others, they live on the very top of the building, they do really interesting coding, build bridges between computers and people, analyze data generated by Internet, realize AI which we have dreamed for such long time and hope to change our life eventually.&lt;/p&gt;
+
+&lt;p&gt;I once saw a sentence on the school’s website, ‘No other subject will open as many doors in the 21st Century, regardless of a student’s ultimate field of study or occupation, as computer science.’&lt;/p&gt;
+
+&lt;p&gt;Specifically, my research interest is Human computer interface. The important thing here is Human. I have mentioned in the beginning that most software is intended for human audience. It is very important for the machine and humans to have the ‘communication’. Human computer interface gives us a systematical way to study this - how to make the communication more efficiently and how to make it more natural for a better user experience.&lt;/p&gt;
+
+&lt;p&gt;On the one hand, I have passion for computer science, I am fancied by the great possibility of the renewing of technology which always brings us surprise. Hundred of years ago, it is beyond human’s imagination that information can be transmitted between Asia and America, but look at what we have achieved now, it can be easily done within a few millisecond. On the other hand, I value those warm human touches in this world, human help and pass encouragements to each other, these things are encouraging and makes you feel hopeful.&lt;/p&gt;
+
+&lt;p&gt;Human computer interface gives us the way to bring two opposite sides together. As for “computer” in “Human computer interface”, many subjects are involved, such as computer graphics, operation systems, programming languages, etc. While for its “human” side, industrial design, cognitive psychology and social science are involved. Due to it’s interdisciplinary feature, people of various backgrounds are together contributing to its development.&lt;/p&gt;
+
+&lt;p&gt;Further more, human computer interface has another feature: being cool. Traditional studies such as operating system, database, programming language, and pattern recognition are full of monotonous and tedious issues, while human computer interface has more visual stuffs. It also has cool branches like virtual reality and visual enhancement. Of course, it is based on those fundamental researches of other subjects. I guess these are reasons why I would like to spend 5 years and more to dive into this area.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;part-iii-why-i-choose-sutd&quot;&gt;PART III: Why I choose SUTD?&lt;/h1&gt;
+
+&lt;p&gt;There is a “design” in SUTD from which shows it’s unique position.&lt;/p&gt;
+
+&lt;p&gt;There are many schools having a “technology” in their names, these schools may have outstanding research works, such as CIT, MIT etc. However, few engineering colleges have “design” in their names. SUTD is thus different from many universities. And this unique feature attracts me.&lt;/p&gt;
+
+&lt;p&gt;Design and Research are different. Design doesn’t have to be new, but it has to be good. Research doesn’t have to be good, but it has to be new. However, their ultimate goal seems to be the same: the best design uses new as well as good ideas, and the best research solves problems that are not only new, but worth solving. So ultimately design and research are aiming for the same destination, just approaching it from different directions.&lt;/p&gt;
+
+&lt;p&gt;Therefore, SUTD’s focus on both the creativeness and practicability attracts so many scholars and students.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;part-iv-my-enthusiasm&quot;&gt;PART IV: My Enthusiasm&lt;/h1&gt;
+
+&lt;p&gt;In the culture of computer science, hackers are enthusiastic about new things. They work as intensely as play and they play as intensely as work. It is the same for me sometimes, the boundaries between “play”, “work”, “science” and “art” all tend to disappear, or to merge into a high-level creative playfulness.&lt;/p&gt;
+
+&lt;p&gt;This hacker culture is the second reason why computer science attracts me. This culture was born from a group of computer scientists. It’s history can be traced back to the first time-sharing computer tens of years ago. At that time, ARPAnet, the prototype of internet has just started. These experts who love to share formed the culture and it then get prospered along with the development of Internet.&lt;/p&gt;
+
+&lt;p&gt;There are several great features of hacker culture, that hackers considering work as play is one important feature of it. Besides, freedom and sharing were right inside of hacker culture when it was born, which attract me mostly.&lt;/p&gt;
+
+&lt;p&gt;Actually, this culture not only exist in the area of computer science. Its influence has been everywhere, say electronics and music. Actually, people who has achieved the highest levels of any subjects, has the similar spirits shared by this culture. The willingness to share, the enthusiasm in working and so on are all in this kind of spirits.&lt;/p&gt;
+
+&lt;p&gt;Though most hackers self-describe as programmers, they are very likely to be more than competent in several related skills. A hacker who’s a system administrator, on the other hand, is likely to be quite skilled at music or painting.&lt;/p&gt;
+
+&lt;p&gt;It is somehow weird to compare hackers to painters, many think there is no relevance between these two people. However, they do share many same features.&lt;/p&gt;
+
+&lt;p&gt;Painters(or any other artists) create works for people (no matter others or themselves) to appreciate. At this point, hackers do exactly the same thing, for all the software are made for people. Inspirations and enthusiasm are needed for both painters and hackers to create great works. If some one desire to program very well, he or she is required to undergo generous, painstaking, and repeated practice. This is similar for painters if they hope to command brilliant painting skills. Moreover, both painters and hacker are not afraid of failures for they deeply know that failure is where success comes.&lt;/p&gt;
+
+&lt;p&gt;The founder of Y-combinator(silicon valley’s biggest incubator) Paul Graham learned painting in Rhodes College of Art after he got his PhD in Havard. According to him, painters and hackers share the most similarities.&lt;/p&gt;
+
+&lt;p&gt;Same for me, I won’t be content with a narrow range of skills. I’m not a good painter, but I’m good at playing musical instrument. I know how to play Clarinet and I could play it well. I’m a piano player as well and I love the pieces by Joe Hisaishi.&lt;/p&gt;
+
+&lt;p&gt;I do this because I love it from inside my heart, and when I love it from heart I would not feel tired or hard, instead I am enjoying the best of my life.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Jun 2014 00:00:00 +0800</pubDate>
+        <link>http://blog.wildflame.com/sop_sutd.html</link>
+        <guid isPermaLink="true">http://blog.wildflame.com/sop_sutd.html</guid>
+        
+        <category>SUTD</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+      <item>
+        <title>嵌入式系统设计-Arm开发入门-实验总结</title>
+        <description>&lt;hr /&gt;
+
+&lt;h1 id=&quot;section&quot;&gt;第一次实验：非操作系统下面的实验&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;实验目的&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;熟悉 ADS 软件的使用&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;熟悉程序的下载和调试流程&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;熟悉 GPIO 的操作掌握Arm在非不使用操作系统下的的使用，理解一般的操作方法，蜂鸣器，中断的使用。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;熟悉 ARM 的中断操作&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;掌握按键检测的方法&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;熟悉 ARM 的定时器操作&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;熟悉ARM的PWM操作&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;熟悉 ARM 的串口操作&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;实验原理&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Nor/Nand 选择开关&lt;/p&gt;
+
+    &lt;p&gt;当从 Nand Flash 启动时,请在实验平台开机前将该开关拨到靠近绿色接口的地方。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;音频输入输出接口&lt;/p&gt;
+
+    &lt;p&gt;TQ2440 提供的音频接口完全按照标准接口提供,绿色为音频输出接口,红色为音频输&lt;br /&gt;
+入口。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;串口接口(串口 0(RS232)和三个串口扩展接口(3.3V 电平))&lt;/p&gt;
+
+    &lt;p&gt;串口在 TQ2440 实验平台的使用中是非常重要的接口之一,TQ2440 可以通过它用 PC 和&lt;br /&gt;
+实验平台直接进行交互操作、传输数据、完成调试等。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;TQ2440 实验平台提供的标配串口线是直连串口线,在使用实验平台时请把串口线的一&lt;/p&gt;
+
+    &lt;p&gt;段接实验平台的串口接口,另外一端接 PC 的串口接口,然后就可以通过串口进行交互等操 作了。&lt;/p&gt;
+
+    &lt;p&gt;三串口扩展接口引出的串口的 TX 和 RX 引脚均是 3.3V 电平,如果需要使用 232 电平, 请扩展 MAX3232 或者 SP3232EEN 芯片转成 232 电平。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;复位按钮&lt;/p&gt;
+
+    &lt;p&gt;硬件重启实验平台时使用。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Jtag 接口&lt;/p&gt;
+
+    &lt;p&gt;在 TQ2440 实验平台中,Jtag 的用途是当 Nand Flash 或 Nor Flash 中没有 uboot 时,使用&lt;br /&gt;
+它烧写 uboot 进去;或者是进行仿真时使用它。&lt;br /&gt;
+使用时请接上 TQ2440 提供的 Jtag 板到实验平台的 Jtag 接口和 PC 的并口接口,然后再&lt;br /&gt;
+使用 Jtag 软件进行烧写或仿真操作。 说明:当不使用 Jtag 烧写时,请拔掉 Jtag 线。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;用户按钮&lt;/p&gt;
+
+    &lt;p&gt;使用中断功能的 4 个用户按钮。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;AD 输入测试电阻&lt;/p&gt;
+
+    &lt;p&gt;在 Linux 或无 OS 中可以测试 ADC 接口(AIN2 管脚)。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;蜂鸣器(PWM 控制)&lt;/p&gt;
+
+    &lt;p&gt;使用 PWM 控制的蜂鸣器。&lt;/p&gt;
+
+    &lt;p&gt;蜂鸣器/LCD 电压选择接口 打开或关断蜂鸣器的电源,选择 LCD 供电电压。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;用户LED灯&lt;/p&gt;
+
+    &lt;p&gt;使用 GPIO 口控制的 LED 灯。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;LCD接口(LCD接口1和2)&lt;/p&gt;
+
+    &lt;p&gt;在接 LCD 接口时请注意排线接口的定位方向,请不要接反了。 说明:这两个接口是使用的相同的数据线和控制线,唯一不同的是一个是 FPC 接口而另&lt;br /&gt;
+外一个是插针形式的接口。  电源指示灯&lt;br /&gt;
+正常开机后,将会点亮红色的 LED 灯。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;电源开关&lt;/p&gt;
+
+    &lt;p&gt;控制着整个实验平台的供电,需要开机时请拨动该开关到靠近电源指示灯的方向,关机&lt;br /&gt;
+时拨动该开关到反方向。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;实验仪器与设备&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;电脑&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Jtag调试器&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Arm开发板&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;触摸屏&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;触摸笔&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;思考题解答&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;从程序编写的角度,比较51 单片机和 SC32440 的 IO 操作的不同之处&lt;/p&gt;
+
+    &lt;p&gt;51单片机的引脚都简单。往往可以直接对引脚做赋值。而SC32440的IO口操作相对麻烦，如果进行位操作还需要掌握编程技巧—通过逻辑运算来实现位操作。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;比较实验 2.2 和实验 2.3,要实现检测按键被按下的功能,采用中断和查询的方法哪个响应&lt;br /&gt;
+的速度会更快?两者有什么优缺点?&lt;/p&gt;
+
+    &lt;p&gt;中断的响应更快。但使用查询来实现程序很简单，所以在程序很简单的时候，使用查询来实现，而在程序执行很长的时候选择中断。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;简述 PWM 技术的其他应用例子及其原理&lt;/p&gt;
+
+    &lt;p&gt;脉宽调制(PWM)是利用微处理器的数字输出来对模拟电路进行控制的一种非常有效的技术，广泛应用在从测量、通信到功率控制与变换的许多领域中。&lt;/p&gt;
+
+    &lt;p&gt;通过数子电路控制模拟电路，通信脉冲调制，模拟电路容易随时间漂移，因而难以调节。可以通过通过数子电路控制模拟电路，还可以进行通信脉冲调制等。&lt;/p&gt;
+
+    &lt;p&gt;总之，PWM既经济、节约空间、抗噪性能强，是一种值得广大工程师在许多设计应用中使用的有效技术。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;如何采用带 FIFO 的串口进行数据收发&lt;/p&gt;
+
+    &lt;p&gt;用FIFO发送数据时，需要保证接受端的FIFO不溢出，则发送过快，接受端FIFO满后中断末取走数据，发送端就又发数据。其只能由发送端来保证。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;ucos-ii-&quot;&gt;第二次实验：uC/OS-II 下面的实验&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;section-5&quot;&gt;实验目的&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;掌握操作系统的基本原理，μC/OS II操作系统下的基本操作方法熟悉 μC/OS II 多任务建立方法, 以及任务间的同步。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;section-6&quot;&gt;实验原理&lt;/h2&gt;
+
+&lt;p&gt;一个较为复杂的应用程序时,也通常把一个大型任务分解成多个小任务, 然后在计算机中通过运行这些小任务,最终达到完成大任务的目的,这种做法也使用应用程 序的维护变得方便起来。因此,现代操作系统几乎都是对任务操作系统。&lt;/p&gt;
+
+&lt;p&gt;在μC/OS-II 中,与上述小任务对应的是程序实体就叫做“任务”(实质是一个线程)。μ C/OS-II 就是一个能对这些小任务进行管理和调度的多任务操作系统。&lt;/p&gt;
+
+&lt;p&gt;从应用程序设计的角度来看,μC/OS-II 的任务就是一个线程,就是一个用来解决用户 问题的 C 语言函数和与之相关联的一些数据结构而构成的一个实体。&lt;/p&gt;
+
+&lt;p&gt;μC/OS-II 的任务有两种:用户任务和系统任务。有应用程序设计者编写得任务,叫做 用户任务;有系统提供的任务叫做系统任务。用户任务是为解决应用问题而编写的;系统任 务是为应用程序来提供某种服务的。&lt;/p&gt;
+
+&lt;p&gt;嵌入式系统中的各个任务都是以并发的方式来运行的,并为同一个大的任务服务。它们 不可避免地要共同使用一些共享资源,并且在处理一些需要多个任务共同协作来完成的工作 时,还需要相互的支持和限制。因此,对于一个完善的多任务操作系统来说,系统必须具有 完各的同步和通信机制。&lt;/p&gt;
+
+&lt;p&gt;任务之问这种制约性的合作运行机制叫做任务间的同步。系统中任务的同步是依靠任务 与任务之间互相发送消息来保证同步的。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;section-7&quot;&gt;实验仪器与设备&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;电脑&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Jtag调试器&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Arm开发板&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;串口线&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;section-8&quot;&gt;思考题解答&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;如果不采用μC/OS II 的延迟函数 OSTimeDly()来实现,而用自己写延迟函数来实验延迟,能&lt;br /&gt;
+否实现一边放歌一边检测按键按下的功能?&lt;/p&gt;
+
+    &lt;p&gt;不能。因为uC/OS II 的多进程是通过在一个任务延迟的时候来实现。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+</description>
+        <pubDate>Thu, 05 Dec 2013 00:00:00 +0800</pubDate>
+        <link>http://blog.wildflame.com/ex.html</link>
+        <guid isPermaLink="true">http://blog.wildflame.com/ex.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>［Python］ubuntu 12.04下面安装影像处理的库PIL的安装, Pygame的安装，以及一些实用的资料整理</title>
+        <description>&lt;!--下面是正文--&gt;
+&lt;p&gt;之前做影像处理都是用的Matlab,这次打算用Python来做，因此要在Python上面安装PIL（PYTHON IMAGE LIBRARY)，安装的环境是ubuntu12.04, Python 2.7.3, GCC 4.6.3等。&lt;/p&gt;
+
+&lt;h2 id=&quot;install-pil&quot;&gt;1.Install PIL&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo apt-get install python-imaging
+$ sudo apt-get install libjpeg-dev libfreetype6 libfreetype6-dev zlib1g-dev
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;然后：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo ln -s /usr/lib/`uname -i`-linux-gnu/libfreetype.so /usr/lib/
+$ sudo ln -s /usr/lib/`uname -i`-linux-gnu/libjpeg.so /usr/lib/
+$ sudo ln -s /usr/lib/`uname -i`-linux-gnu/libz.so /usr/lib/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;最后：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ pip install PIL
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;一般这样就可以了。完成！^^&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;但是如果出现：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -IlibImaging -I/usr/include -I/usr/local/include -I/usr/include/python2.6 -c _imaging.c -o build/temp.linux-i686-2.6/_imaging.o
+_imaging.c:75:20: error: Python.h: 没有那个文件或目录
+In file included from libImaging/Imaging.h:14,from _imaging.c:77:
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;错误信息，最后的显示结果为：&lt;br /&gt;
+    command ‘gcc’ failed with exit status 1&lt;/p&gt;
+
+&lt;p&gt;就还需要做下面的事情。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;1.安装python-all-dev&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.然后执行PIL文件下的setup.py&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;参见此君的博文：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.sina.com.cn/s/blog_5cd78a5d0101jcza.html&quot;&gt;http://blog.sina.com.cn/s/blog_5cd78a5d0101jcza.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;为了找到缺什么，我们运行&lt;/em&gt;&lt;br /&gt;
+  &lt;em&gt;apt-cache search python | grep dev&lt;/em&gt;h&lt;br /&gt;
+&lt;em&gt;没有找到python的C语言开发包。&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;安装python-all-dev,于是然后执行PIL文件下的setup.py，安装成功。&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;pygame&quot;&gt;Pygame的安装&lt;/h2&gt;
+
+&lt;p&gt;如果输入&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ pip intsall Pygame
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;会出现下面的错误&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;No such file or directory: &#39;/home/×××××/build/Pygame/setup.py&#39;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;使用就可以&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ pip install http://www.pygame.org/ftp/pygame-1.9.1release.tar.gz
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;可以详细看关于这个Bug的issue讨论：&lt;a href=&quot;https://bitbucket.org/pygame/pygame/issue/59/pygame-has-no-pypi-page-and-cant-be&quot;&gt;https://bitbucket.org/pygame/pygame/issue/59/pygame-has-no-pypi-page-and-cant-be&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;2.有用的参考资料：&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;官方文档 &lt;a href=&quot;http://effbot.org/imagingbook/&quot;&gt;http://effbot.org/imagingbook/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;数字图像处理PIL的一个实例 &lt;a href=&quot;http://blog.sina.com.cn/s/blog_4b5039210100f6ki.html&quot;&gt;http://blog.sina.com.cn/s/blog_4b5039210100f6ki.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;一篇关于如何成为Python高手的文章，是从 How to become a proficient Python programmer 这篇文章翻译而来的 &lt;a href=&quot;http://www.zhizhihu.com/html/y2011/3093.html&quot;&gt;http://www.zhizhihu.com/html/y2011/3093.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;把图片的数据变换成数组 &lt;a href=&quot;http://blog.csdn.net/zhengkarl/article/details/5731317&quot;&gt;http://blog.csdn.net/zhengkarl/article/details/5731317&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Python图形图像处理库的介绍之Image模块 &lt;a href=&quot;http://tojaoomy.iteye.com/blog/1413810&quot;&gt;http://tojaoomy.iteye.com/blog/1413810&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;微博关键字图片生成算法 &lt;a href=&quot;http://ued.ctrip.com/blog/?p=2471&quot;&gt;http://ued.ctrip.com/blog/?p=2471&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Matplotlib的官方文档 &lt;a href=&quot;http://matplotlib.sourceforge.net/Matplotlib.pdf&quot;&gt;http://matplotlib.sourceforge.net/Matplotlib.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;3.References:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://askubuntu.com/questions/156484/how-do-i-install-python-imaging-library-pil&quot;&gt;http://askubuntu.com/questions/156484/how-do-i-install-python-imaging-library-pil&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sandersnewmedia.com/why/2012/04/16/installing-pil-virtualenv-ubuntu-1204-precise-pangolin/&quot;&gt;http://www.sandersnewmedia.com/why/2012/04/16/installing-pil-virtualenv-ubuntu-1204-precise-pangolin/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.sina.com.cn/s/blog_5cd78a5d0101jcza.html&quot;&gt;http://blog.sina.com.cn/s/blog_5cd78a5d0101jcza.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 12 Jul 2013 00:00:00 +0800</pubDate>
+        <link>http://blog.wildflame.com/how_to_install_PIL_for_python_under_ubuntu_12.04.html</link>
+        <guid isPermaLink="true">http://blog.wildflame.com/how_to_install_PIL_for_python_under_ubuntu_12.04.html</guid>
+        
+        
+        <category>tech</category>
+        
+      </item>
+    
+      <item>
+        <title>交织梦想——记在台四个月的体会（下）</title>
+        <description>&lt;p&gt;##坐在去濟南的列車上&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;坐在前往濟南的火車上，窗戶邊飛馳的火車，徐徐向后的風景。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;想起，那天月亮最大的時候；&lt;br /&gt;
+我們，坐在那塊操場上；&lt;br /&gt;
+心裡，惦記著女友；&lt;br /&gt;
+電話，打了一通又一通。&lt;/p&gt;
+
+&lt;p&gt;電話打通的那一瞬間，我覺得，那是世界上最幸福的時刻，因為有大家的祝福，我相信我們會幸福一輩子的。沒有想到大家會那麽耐心，等著我打了那麽多通電話，等著唱那首代表月亮的歌。因為有了你們的祝福，有這麽多這麽多的東西。&lt;/p&gt;
+
+&lt;p&gt;剛剛離開夢吟。離開台灣以後，和夢吟又陰差陽錯的見了三面。&lt;/p&gt;
+
+&lt;p&gt;第一次，6月29日，上海南站，夢吟，小曄，若愚。送走了小曄去烏鎮，送走了若愚去寜波，下午去了Madam Tussand’s，晚上去了外灘。&lt;/p&gt;
+
+&lt;p&gt;第二次，6月30日，復旦大學，夢吟，小曄，程程。逛了復旦，吃了牛蛙。&lt;/p&gt;
+
+&lt;p&gt;第三次，7月1日，虹橋樞紐，夢吟。我因為早晨公交被追尾，所以耽誤了去火車站的時辰，然後因此在我離開車站的時候，又遇到了夢吟來車站趕車去杭州。&lt;/p&gt;
+
+&lt;p&gt;##如果不是你們&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;如果不是你們，我不會相信，原來有那麽多人會去追求夢想。如果不是你們，我不會相信，朋友可以和戀人一樣死心塌地。如果不是你們，我不會相信，其實人與人可以那樣互相信賴。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;如果不是你們，我不會那麽勇敢的去追求夢想，放棄所學的專業，去自學計算機行業的知識，想必如果不是你們，我一定還在抱怨學校的課程設置是多麽的不合理。&lt;/p&gt;
+
+&lt;p&gt;如果不是你們，我不可能找到五個隊友和我去參加那個創業Workshop，一群電子系資工系什麽都不懂的人去玩他們公司管理的游戲，其實想來也沒學會什麽有意義的事情，只不過收獲了信賴，了解了一點點正常企業運作的流程，讓我向著自己的夢想又更近了一步，&lt;/p&gt;
+
+&lt;p&gt;如果不是你們，我連生科樓的門都進不去，更別提哪有人大半夜的陪著我在生科樓發神經，一曲簡單的不能再簡單的歌曲也要練到半夜三點，最後還要走調。&lt;/p&gt;
+
+&lt;p&gt;如果不是你們，我也不可能知道Github也可以挂靜態博客，我不會知道原來Dropbox在ubuntu下面用不了是因為被源被牆了，我也不會知道原來Arch社區那麽熱情，以及pandoc原來那麽好用。&lt;/p&gt;
+
+&lt;p&gt;如果不是你們，我真的會以為中國的教育已經完蛋了，教出來的人都是一個個的機器人，可是你們讓我看到，無論外部環境是怎麽樣，總是有敢于質疑環境的人出現。&lt;/p&gt;
+
+&lt;p&gt;如果不是你們，我真的真的還在繼續一個人自習，有時會找不到人吃飯，做著不喜歡的事情，卻沒有勇氣去做那些自己覺得有意義的事情，去努力奮鬥。&lt;/p&gt;
+
+&lt;p&gt;##夢開始的地方&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;豬小曄說一個美麗的夢就要結束了，其實一個美麗的夢才剛剛開始&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;澎湖的那幾天，就是最開始的夢的吧。我與四個月前的我，可以說是完全不同的兩個人了。&lt;/p&gt;
+
+&lt;p&gt;接下來的才是一個巨大的夢吧。&lt;/p&gt;
+
+&lt;p&gt;交換生裏有一個人，他回去後的第一天，就坐高鐵來了上海。人都有沖動的時候，我知道，他那是一時沖動，卻不魯莽。所以夢吟這個名字，是說會吟出一個夢給我們吧。&lt;/p&gt;
+
+&lt;p&gt;明天就要到杭州了，朋友們，杭州見！&lt;/p&gt;
+
+&lt;p&gt;##Arcade&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;每一幅照片裏，都是滿滿的回憶&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Everyday&lt;/p&gt;
+
+&lt;p&gt;這是交大的校園。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/tbRuoHx.jpg&quot; title=&quot;交大校园&quot;&gt;&amp;lt;img src=”http://i.imgur.com/tbRuoHx.jpg” title=”NCTU” width=100% /&amp;gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;這裏是二餐&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/zdndXf6.jpg&quot;&gt;&amp;lt;img src=”http://i.imgur.com/zdndXf6.jpg” title=”NCTU_cafe” width=100% /&amp;gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;4.13&lt;/p&gt;
+
+&lt;p&gt;這天是校慶日。我把杯子忘在了光復，被一個師伯撿到。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/ZO0ytYl.jpg&quot;&gt;&amp;lt;img src=”http://i.imgur.com/ZO0ytYl.jpg” title=”NCTU_celebration” width=100% /&amp;gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;4.27&lt;/p&gt;
+
+&lt;p&gt;這天去了九份。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/MT5zoRF.jpg&quot;&gt;&amp;lt;img src=”http://i.imgur.com/MT5zoRF.jpg” title=”4.27” width=100% /&amp;gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;後來去了酒廠。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/H4euqEO.jpg&quot;&gt;&amp;lt;img src=”http://i.imgur.com/H4euqEO.jpg” title=”4.27” width=100% /&amp;gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;晚上去喝了酒，還有泡了溫泉。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/629Zp2S.jpg&quot;&gt;&amp;lt;img src=”http://i.imgur.com/629Zp2S.jpg” title=”4.27” width=100% /&amp;gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;4.28&lt;/p&gt;
+
+&lt;p&gt;這天去看了海豚，以及蘭陽博物館，還有深坑。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/4JbnJaD.jpg&quot;&gt;&amp;lt;img src=”http://i.imgur.com/4JbnJaD.jpg” title=”4.28” width=100%/&amp;gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;5.2&lt;/p&gt;
+
+&lt;p&gt;環島第二天，在公路上。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/RWH4Jht.jpg&quot;&gt;&amp;lt;img src=”http://i.imgur.com/RWH4Jht.jpg” title=”5.2” width=100% /&amp;gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;5.4&lt;/p&gt;
+
+&lt;p&gt;抵達墾丁，與大部隊會合。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/RBh15zE.jpg&quot;&gt;&amp;lt;img src=”http://i.imgur.com/RBh15zE.jpg” title=”Kenting” width=100% /&amp;gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;6.8&lt;/p&gt;
+
+&lt;p&gt;第一次在新竹唱歌&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/srfdXtO.jpg&quot;&gt;&amp;lt;img src=”http://i.imgur.com/srfdXtO.jpg” title=”Singing” width=100% /&amp;gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;6.12&lt;/p&gt;
+
+&lt;p&gt;端午節去了淡水。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/YnpLVPN.jpg&quot;&gt;&amp;lt;img src=”http://i.imgur.com/YnpLVPN.jpg” title=”Danshui” width=100% /&amp;gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;6.26&lt;/p&gt;
+
+&lt;p&gt;在夢時代神游的大家&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/ea6wCXE.jpg&quot;&gt;&amp;lt;img src=”http://i.imgur.com/ea6wCXE.jpg” title=”Kaohsiong” width=100% /&amp;gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;在中山大學的小亭子發神&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/MNWESxs.jpg&quot;&gt;&amp;lt;img src=”http://i.imgur.com/MNWESxs.jpg” title=”Kaohsiong II” width=100% /&amp;gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;在西子灣看太陽&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/k16tjXK.jpg&quot;&gt;&amp;lt;img src=”http://i.imgur.com/k16tjXK.jpg” title=”Xiziwan” width=100% /&amp;gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;在領事館前看太陽&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/iFiuFTI.jpg&quot;&gt;&amp;lt;img src=”http://i.imgur.com/iFiuFTI.jpg” title=”British” width=100% /&amp;gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;script&gt;
+
+{
+  $(document).ready(function(){
+      $(&#39;article a&#39;).attr(&#39;data-lightbox&#39;,&#39;roadtrip&#39;);
+      });
+}
+
+&lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 01 Jul 2013 00:00:00 +0800</pubDate>
+        <link>http://blog.wildflame.com/When_Dream_Start.html</link>
+        <guid isPermaLink="true">http://blog.wildflame.com/When_Dream_Start.html</guid>
+        
+        
+        <category>diary</category>
+        
+      </item>
+    
+      <item>
+        <title>［视频］NCTU2013春惜别晚会视频（持續更新ING~）</title>
+        <description>&lt;p&gt;【搶先版】 NCTU2013 陸生惜別晚會 —— 第一彈__開頭暨預告片&lt;/p&gt;
+
+&lt;p&gt;Youtube地址 &lt;a href=&quot;http://www.youtube.com/watch?v=8Gu51yGvRfk&quot;&gt;http://www.youtube.com/watch?v=8Gu51yGvRfk&lt;/a&gt; 6.08已放出&lt;/p&gt;
+
+&lt;p&gt;优酷地址 &lt;a href=&quot;http://v.youku.com/v_show/id_XNTY4NzMzNzgw.html&quot;&gt;http://v.youku.com/v_show/id_XNTY4NzMzNzgw.html&lt;/a&gt; 6.09已放出&lt;/p&gt;
+
+&lt;p&gt;【正篇】 NCTU2013 陸生惜別晚會 —— 第二彈__情非得已&lt;/p&gt;
+
+&lt;p&gt;Youtube地址 &lt;a href=&quot;http://www.youtube.com/watch?v=Q4p9rl41jhw&quot;&gt;http://www.youtube.com/watch?v=Q4p9rl41jhw&lt;/a&gt; 6.11已放出&lt;/p&gt;
+
+&lt;p&gt;优酷地址 &lt;a href=&quot;http://v.youku.com/v_show/id_XNTY5MjQ3OTcy.html&quot;&gt;http://v.youku.com/v_show/id_XNTY5MjQ3OTcy.html&lt;/a&gt; 6.12已放出&lt;/p&gt;
+
+&lt;p&gt;【正篇】 NCTU2013 陸生惜別晚會 —— 第三彈__獨唱 洋蔥 &amp;amp; 甄嬛與七個小矮人&lt;/p&gt;
+
+&lt;p&gt;Youtube地址 &lt;a href=&quot;https://www.youtube.com/watch?v=AhoiPhOz7Rc&quot;&gt;https://www.youtube.com/watch?v=AhoiPhOz7Rc&lt;/a&gt; 6.16已放出&lt;/p&gt;
+
+&lt;p&gt;优酷地址 &lt;a href=&quot;http://v.youku.com/v_show/id_XNTcxNzA0Mzc2.html&quot;&gt;http://v.youku.com/v_show/id_XNTcxNzA0Mzc2.html&lt;/a&gt; 6.19已放出&lt;/p&gt;
+
+&lt;p&gt;【正篇，新番】 NCTU2013 陸生惜別晚會 —— 第四彈__鳳凰花開的時候 &amp;amp; 交大的意義&lt;/p&gt;
+
+&lt;p&gt;Youtube地址 &lt;a href=&quot;https://www.youtube.com/watch?v=4oJaYhhXBp8&quot;&gt;https://www.youtube.com/watch?v=4oJaYhhXBp8&lt;/a&gt; 7.10放出&lt;/p&gt;
+
+&lt;p&gt;优酷地址  &lt;a href=&quot;http://v.youku.com/v_show/id_XNTgwNDY2MzY0.html&quot;&gt;http://v.youku.com/v_show/id_XNTgwNDY2MzY0.html&lt;/a&gt; 7.8已放出&lt;/p&gt;
+
+&lt;p&gt;【正篇】 NCTU2013 陸生惜別晚會 —— 第五彈__爱因为在心中&lt;/p&gt;
+
+&lt;p&gt;敬請期待&lt;/p&gt;
+
+&lt;p&gt;……&lt;/p&gt;
+
+&lt;p&gt;【追忆篇】 NCTU2013 陸生惜別晚會 —— 最终话__晚会花絮+交大景色+晚会人员&lt;/p&gt;
+
+&lt;p&gt;敬请期待！&lt;/p&gt;
+
+&lt;p&gt;【完整篇】 NCTU2013 陸生惜別晚會 —— NCTU2013春惜别晚会纪念视频&lt;/p&gt;
+</description>
+        <pubDate>Tue, 11 Jun 2013 00:00:00 +0800</pubDate>
+        <link>http://blog.wildflame.com/Farewell-party.html</link>
+        <guid isPermaLink="true">http://blog.wildflame.com/Farewell-party.html</guid>
+        
+        
+        <category>video</category>
+        
+      </item>
+    
+  </channel>
+</rss>
