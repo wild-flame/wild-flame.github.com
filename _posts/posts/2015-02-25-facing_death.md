@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 潇洒的面对死亡
 date: 2015-02-25 21:37
 category: diary

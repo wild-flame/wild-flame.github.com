@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 【CancerFree】病房是白色的，世界是彩色的
 date: 2014-10-01 17:47
 author: Taffy
