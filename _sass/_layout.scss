@@ -1,0 +1,158 @@
+/**
+ * Site header
+ */
+.site-header {
+    border-bottom: 1px solid $grey-color-light;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.site-title {
+    font-size: 1.5rem;
+    font-weight: 300;
+    letter-spacing: -1px;
+    color: $grey-color-dark;
+
+    &,
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+
+
+/**
+ * Page content
+ */
+.page-content {
+    position: relative;
+    max-width: 48rem;
+    padding: $spacing-unit ($spacing-unit * 0.75);
+    margin: 0 auto;
+    box-sizing: border-box;
+    height:100%;
+    padding-bottom: 5rem;/*等于或略大于footer的高度*/
+}
+
+
+/**
+ * Pages
+ */
+.home {
+    section + section {
+        margin-top: $spacing-unit;
+    }
+}
+
+.smallcap {
+    text-transform: lowercase;
+    font-variant: small-caps;
+
+    &::first-letter {
+        text-transform: uppercase;
+    }
+}
+
+.post-list > li {
+    margin-bottom: $spacing-unit / 4;
+
+    @include media-query($on-palm) {
+        span {
+            display: block;
+            font-size: $small-font-size;
+        }
+    }
+}
+
+
+
+/**
+ * Posts
+ */
+.post-header {
+    margin-bottom: $spacing-unit;
+}
+
+.post-title {
+    font-size: 2rem;
+    letter-spacing: -1px;
+    line-height: 1;
+}
+
+.post-meta {
+    font-size: $small-font-size;
+    color: $grey-color;
+}
+
+.post-content {
+    margin-bottom: $spacing-unit;
+
+    h1, h2, h3,
+    h4, h5, h6 {
+        margin-top: 2rem;
+    }
+
+    h1,
+    h2 {
+        font-size: 2rem;
+    }
+
+    h3 {
+        font-size: 1.5rem;
+    }
+
+    h4 {
+        font-size: 1.25rem;
+    }
+
+    h5,
+    h6 {
+        font-size: 1rem;
+    }
+}
+
+/**
+ * Archive
+ */
+
+.archive-tag {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/*
+Footer
+*/
+
+html,body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.container {
+  min-height: 100%;
+  position: relative;
+  height:auto !important;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding-bottom: 1rem;
+}
+
+.footer-content{
+  position: relative;
+  padding: 0 ($spacing-unit * 0.75);
+  box-sizing: border-box;
+  max-width: 48rem;
+  margin: 0 auto;
+
+  // footer-style
+  font-size:  0.875rem;
+  height: 3rem;
+  color: #769EB3;
+  z-index: 1000;
+}

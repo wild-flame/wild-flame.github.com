@@ -1,0 +1,25 @@
+# Site settings
+title: wildflame
+baseurl: ""
+url: "http://blog.wildflame.com"
+author: Taffy
+
+# Build settings
+kramdown:
+  input: GFM
+  
+permalink: :title/
+
+# Third-party services
+# just leave someone empty to disable it
+google_analytics:
+disqus_shortname:
+
+
+defaults:
+  -
+    scope:
+      type: "posts"
+      path: "_posts"
+    values:
+      layout: "post"
