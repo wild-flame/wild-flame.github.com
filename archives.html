@@ -1,151 +1,23 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Archives - wildflame</title>
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://blog.wildflame.com/archives">
-  <link rel="alternate" type="application/rss+xml" title="wildflame" href="http://blog.wildflame.com/feed.xml">
-</head>
+---
+layout: page
+title:  Archives
+---
 
-  <body>
-    <header class="site-header">
-      <a class="site-title" href="/">wildflame</a>
-    </header>
-    <div class="page-content">
-      <article class="post">
-  <header class="post-header">
-    <h1 class="post-title">Archives</h1>
-  </header>
-  <div class="post-content">
-    <ul class="post-list">
 
-  
-  <div class="archive-tag">posts</div>
-	
-	<li>
-		<span>Jun 04, 2014</span>
-		<a href="/sop_sutd.html">Statement of Purpose for SUTD</a>
-		[posts]
-	</li>
-	
-	<li>
-		<span>Nov 30, 2012</span>
-		<a href="/to-myfriends.html">给大学的同学们-关于选择与体验，人生目标与梦想</a>
-		[posts]
-	</li>
-	
-
-  
+<ul class="post-list">
+{% for category in site.categories %}
+  {% if category != site.categories.first %}
 		<hr>
-	
-  <div class="archive-tag">tech</div>
-	
+	{% endif %}
+  <div class="archive-tag">{{ category | first }}</div>
+	{% for post in category.last %}
 	<li>
-		<span>Jun 01, 2015</span>
-		<a href="/hci.html">关于HCI的碎碎念</a>
-		[tech]
+		<span>{{ post.date | date: "%b %d, %Y" }}</span>
+		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+		[{{category.first}}]
 	</li>
-	
-	<li>
-		<span>Jul 12, 2013</span>
-		<a href="/how_to_install_PIL_for_python_under_ubuntu_12.04.html">［Python］ubuntu 12.04下面安装影像处理的库PIL的安装, Pygame的安装，以及一些实用的资料整理</a>
-		[tech]
-	</li>
-	
-	<li>
-		<span>Jan 27, 2013</span>
-		<a href="/how_to_make_ubuntu_to_use_two_monitor_to_display.html">［操作系统］Ubuntu 12.04 + Gnome 3 的笔记本+显示器 配置成双屏幕显示</a>
-		[tech]
-	</li>
-	
-	<li>
-		<span>Dec 27, 2012</span>
-		<a href="/ubuntu_ruby_environment.html">［Ruby］Ubuntu(12.04)下Ruby的安装与配置</a>
-		[tech]
-	</li>
-	
-
-  
-		<hr>
-	
-  <div class="archive-tag">diary</div>
-	
-	<li>
-		<span>Feb 25, 2015</span>
-		<a href="/facing_death.html">潇洒的面对死亡</a>
-		[diary]
-	</li>
-	
-	<li>
-		<span>Oct 11, 2014</span>
-		<a href="/chemofree.html">【CancerFree】入院记后 & 第一次化疗</a>
-		[diary]
-	</li>
-	
-	<li>
-		<span>Oct 01, 2014</span>
-		<a href="/in-the-hospital.html">【CancerFree】病房是白色的，世界是彩色的</a>
-		[diary]
-	</li>
-	
-	<li>
-		<span>Sep 30, 2014</span>
-		<a href="/the-first-letter-to-friend-after-leukemia.html">【CancerFree】入院以后给朋友们的第一封信</a>
-		[diary]
-	</li>
-	
-	<li>
-		<span>Jul 01, 2013</span>
-		<a href="/When_Dream_Start.html">交织梦想——记在台四个月的体会（下）</a>
-		[diary]
-	</li>
-	
-	<li>
-		<span>Jun 09, 2013</span>
-		<a href="/Beautiful_Taiwan.html">最美的风景是人——记在台四个月的体会（上）</a>
-		[diary]
-	</li>
-	
-	<li>
-		<span>May 01, 2013</span>
-		<a href="/InTaiwan.html">環島攻略——腦袋發熱出行記——行前準備</a>
-		[diary]
-	</li>
-	
-
-  
-		<hr>
-	
-  <div class="archive-tag">projects</div>
-	
-	<li>
-		<span>Dec 05, 2013</span>
-		<a href="/ex.html">嵌入式系统设计-Arm开发入门-实验总结</a>
-		[projects]
-	</li>
-	
-	<li>
-		<span>May 27, 2013</span>
-		<a href="/Reversible_Date_Embedding.html">Reversible Data Embedding using Interger Wavelet Transform with MATLAB</a>
-		[projects]
-	</li>
-	
-
-  
-		<hr>
-	
-  <div class="archive-tag">video</div>
-	
-	<li>
-		<span>Jun 11, 2013</span>
-		<a href="/Farewell-party.html">［视频］NCTU2013春惜别晚会视频（持續更新ING~）</a>
-		[video]
-	</li>
-	
-
+	{% endfor %}
+{% endfor %}
 </ul>
 
 
@@ -153,111 +25,13 @@
 <!--
 
 <ul class="post-list">
-	
+	{% for post in site.posts %}
 	<li>
-		<span>Jun 01, 2015</span> [tech]
-		<a href="/hci.html">关于HCI的碎碎念</a>
+		<span>{{ post.date | date: "%b %d, %Y" }}</span> [{{post.category}}]
+		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 
 	</li>
-	
-	<li>
-		<span>Feb 25, 2015</span> [diary]
-		<a href="/facing_death.html">潇洒的面对死亡</a>
-
-	</li>
-	
-	<li>
-		<span>Oct 11, 2014</span> [diary]
-		<a href="/chemofree.html">【CancerFree】入院记后 & 第一次化疗</a>
-
-	</li>
-	
-	<li>
-		<span>Oct 01, 2014</span> [diary]
-		<a href="/in-the-hospital.html">【CancerFree】病房是白色的，世界是彩色的</a>
-
-	</li>
-	
-	<li>
-		<span>Sep 30, 2014</span> [diary]
-		<a href="/the-first-letter-to-friend-after-leukemia.html">【CancerFree】入院以后给朋友们的第一封信</a>
-
-	</li>
-	
-	<li>
-		<span>Jun 04, 2014</span> [posts]
-		<a href="/sop_sutd.html">Statement of Purpose for SUTD</a>
-
-	</li>
-	
-	<li>
-		<span>Dec 05, 2013</span> [projects]
-		<a href="/ex.html">嵌入式系统设计-Arm开发入门-实验总结</a>
-
-	</li>
-	
-	<li>
-		<span>Jul 12, 2013</span> [tech]
-		<a href="/how_to_install_PIL_for_python_under_ubuntu_12.04.html">［Python］ubuntu 12.04下面安装影像处理的库PIL的安装, Pygame的安装，以及一些实用的资料整理</a>
-
-	</li>
-	
-	<li>
-		<span>Jul 01, 2013</span> [diary]
-		<a href="/When_Dream_Start.html">交织梦想——记在台四个月的体会（下）</a>
-
-	</li>
-	
-	<li>
-		<span>Jun 11, 2013</span> [video]
-		<a href="/Farewell-party.html">［视频］NCTU2013春惜别晚会视频（持續更新ING~）</a>
-
-	</li>
-	
-	<li>
-		<span>Jun 09, 2013</span> [diary]
-		<a href="/Beautiful_Taiwan.html">最美的风景是人——记在台四个月的体会（上）</a>
-
-	</li>
-	
-	<li>
-		<span>May 27, 2013</span> [projects]
-		<a href="/Reversible_Date_Embedding.html">Reversible Data Embedding using Interger Wavelet Transform with MATLAB</a>
-
-	</li>
-	
-	<li>
-		<span>May 01, 2013</span> [diary]
-		<a href="/InTaiwan.html">環島攻略——腦袋發熱出行記——行前準備</a>
-
-	</li>
-	
-	<li>
-		<span>Jan 27, 2013</span> [tech]
-		<a href="/how_to_make_ubuntu_to_use_two_monitor_to_display.html">［操作系统］Ubuntu 12.04 + Gnome 3 的笔记本+显示器 配置成双屏幕显示</a>
-
-	</li>
-	
-	<li>
-		<span>Dec 27, 2012</span> [tech]
-		<a href="/ubuntu_ruby_environment.html">［Ruby］Ubuntu(12.04)下Ruby的安装与配置</a>
-
-	</li>
-	
-	<li>
-		<span>Nov 30, 2012</span> [posts]
-		<a href="/to-myfriends.html">给大学的同学们-关于选择与体验，人生目标与梦想</a>
-
-	</li>
-	
+	{% endfor %}
 </ul>
 
 -->
-
-  </div>
-</article>
-
-    </div>
-    
-  </body>
-</html>
