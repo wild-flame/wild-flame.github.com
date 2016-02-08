@@ -16,10 +16,10 @@ google_analytics:
 disqus_shortname:
 
 
-#defaults:
-#  -
-#    scope:
-#      type: "posts"
-#      path: "_posts"
-#    values:
-#      layout: "post"
+defaults:
+  -
+    scope:
+      type: "posts"
+      path: "_posts"
+    values:
+      layout: "post"

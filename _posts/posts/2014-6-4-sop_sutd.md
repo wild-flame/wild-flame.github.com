@@ -1,6 +1,5 @@
 ---
-layout: post
-title: Statement of Purpose for SUTD
+title: Statement of Purpose for SUTD 
 category: posts
 tags: SUTD
 ---
