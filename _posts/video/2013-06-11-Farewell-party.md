@@ -1,12 +1,15 @@
 ---
 layout: post
-title: ［视频］NCTU2013春惜别晚会视频（持續更新ING~）
+title: ［视频］NCTU2013春惜别晚会视频（暂停更新）
 author: Taffy
 category: video
 description: NCTU2013陸生惜別晚會各个视频汇总贴
 ---
 
-【搶先版】 NCTU2013 陸生惜別晚會 —— 第一彈__開頭暨預告片 
+ 因为换了系统，所以做视频的软件没有了，我用的是 sony vegas，以前高中的时候在校园电视台工作的时候学的，
+ 但是...嗯……如果有人愿意接手后面的工作请联系我，原始视频我还保存着。
+
+【搶先版】 NCTU2013 陸生惜別晚會 —— 第一彈__開頭暨預告片
 
 Youtube地址 <http://www.youtube.com/watch?v=8Gu51yGvRfk> 6.08已放出
 

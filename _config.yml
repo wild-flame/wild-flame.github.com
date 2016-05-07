@@ -1,13 +1,13 @@
 # Site settings
 title: wildflame
-baseurl: ""
+baseurl: "blog.wildflame.com"
 url: "http://blog.wildflame.com"
 author: Taffy
 
 # Build settings
 kramdown:
   input: GFM
-  
+
 permalink: :title/
 
 # Third-party services
