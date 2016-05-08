@@ -12,8 +12,8 @@ permalink: :title/
 
 # Third-party services
 # just leave someone empty to disable it
-google_analytics:
-disqus_shortname:
+google_analytics: UA-41378161-1
+disqus_shortname: wildflame
 
 
 defaults:
