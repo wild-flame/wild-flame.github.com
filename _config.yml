@@ -15,7 +15,6 @@ permalink: :title/
 google_analytics: UA-41378161-1
 disqus_shortname: wildflame
 
-
 defaults:
   -
     scope:
@@ -23,3 +22,6 @@ defaults:
       path: "_posts"
     values:
       layout: "post"
+
+# gems:
+#  - jekyll-sitemap
