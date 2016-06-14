@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ［操作系统］Ubuntu 12.04 + Gnome 3 的笔记本+显示器 配置成双屏幕显示 
-author: Taffy 
+title: ［操作系统］Ubuntu 12.04 + Gnome 3 的笔记本+显示器 配置成双屏幕显示
+author: Taffy
 category: tech
 description: 由于家里有一台多余显示器，所以希望能够连接上笔记本配置ubuntu为双屏幕。环境是：ubuntu12.04 + Gnome 3
 ---
@@ -15,12 +15,13 @@ description: 由于家里有一台多余显示器，所以希望能够连接上�
 ---
 ## 1.登录配置界面
 
-<img width=100% src=http://img.my.csdn.net/uploads/201301/27/1359278858_4866.png />
+
+![](http://img.my.csdn.net/uploads/201301/27/1359278858_4866.png)
 
 ---
 ## 2.进入显示界面并设置。
 
-<img width=100% src=http://img.my.csdn.net/uploads/201301/27/1359278878_2560.png />
+![](http://img.my.csdn.net/uploads/201301/27/1359278878_2560.png)
 
 反选在镜像显示。并且两个显示器都选上开启。（这时候可能会出现配置问题，
 

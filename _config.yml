@@ -4,9 +4,13 @@ baseurl: ""
 url: "http://blog.wildflame.org"
 author: Taffy
 
+
 # Build settings
+markdown:    kramdown
+
 kramdown:
   input: GFM
+  html_to_native: true
 
 permalink: :title/
 

@@ -1,5 +1,5 @@
 ---
-title: 【CancerFree】入院记后 & 第一次化疗
+title: 入院记后 & 第一次化疗
 Date: 2014-10-11 18:23
 author: Taffy
 category: diary

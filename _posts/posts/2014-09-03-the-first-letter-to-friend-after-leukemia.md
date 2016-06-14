@@ -1,5 +1,5 @@
 ---
-title: 【CancerFree】入院以后给朋友们的第一封信
+title: 入院以后给朋友们的第一封信
 date: 2014-10-01 17:47
 author: Taffy
 category: diary
