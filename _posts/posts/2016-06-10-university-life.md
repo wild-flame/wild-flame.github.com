@@ -4,6 +4,9 @@ title: 大学时光
 author: Taffy
 category: posts
 ---  
+
+{::nomarkdown}  
+<p>
 1. 哈工大的校庆日刚好和高考的时间是重合的。高考之前从来没想过报考的大学，结果最后阴差阳错的考了进去，从此就和这个名字结下了不解之缘。<br/><br/>
 
 2. 工大在南方名气没有那么大。想起第一次听说这个学校，竟然小时候玩过的唯一收费网游《梦幻西游》里时认识的为数不多的网友之一告诉我的，那人刚高考，我那时刚上初中，小不懂事就问他想读哪里大学，他说他报了哈工大。<br/><br/>
@@ -34,7 +37,6 @@ category: posts
 <br/><br/>
 </p>
 
-{::nomarkdown}  
 <img style="border-radius:20px; width:90%; margin-left:5%;" src="/images/hit_main_building.jpg" x></img>
 
 <p style= "text-align:center;">

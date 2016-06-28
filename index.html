@@ -14,9 +14,9 @@ sitemap:
     <h2 class="smallcap">Books</h2>
     <ul>
       <li>
-
+        <span>
         [ Working in Progress... ]
-
+        </span>
         <a href="http://mac-setup.wildflame.org/">Mac OS X 完全配置指南 (Setup-Guide)</a>
       </li>
     </ul>
@@ -26,8 +26,8 @@ sitemap:
     <ul class="post-list">
       {% for post in site.categories.posts limit:5 %}
       <li>
-        <span>{{ post.date | date: "%b %d, %Y" }}</span>
-        | {{post.category}} |
+        <span>{{ post.date | date: "%b %d, %Y" }}
+        | {{post.category}} | </span>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
       {% endfor %}
