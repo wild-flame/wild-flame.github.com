@@ -9,32 +9,16 @@ sitemap:
 <ul class="post-list">
 {% for category in site.categories %}
   {% if category != site.categories.first %}
-		<hr>
-	{% endif %}
+  <hr>
+  {% endif %}
   <div class="archive-tag">{{ category | first }}</div>
-	{% for post in category.last %}
-	<li>
-		<span>{{ post.date | date: "%b %d, %Y" }}</span>
-		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-		[{{category.first}}]
-	</li>
-	{% endfor %}
+  {% for post in category.last %}
+  <li>
+    <span>{{ post.date | date: "%b %d, %Y" }}</span>
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    <span>[{{category.first}}]</span>
+  </li>
+  {% endfor %}
 {% endfor %}
 </ul>
 
-
-
-
-<!--
-
-<ul class="post-list">
-	{% for post in site.posts %}
-	<li>
-		<span>{{ post.date | date: "%b %d, %Y" }}</span> [{{post.category}}]
-		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-
-	</li>
-	{% endfor %}
-</ul>
-
--->
