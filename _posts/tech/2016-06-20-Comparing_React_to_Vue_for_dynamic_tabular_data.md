@@ -1,9 +1,9 @@
 ---
 layout: post
 title: ［译］较为完整的 React.js / Vue.js 的性能比较
-author: Taffy 
+author: Taffy
 category: tech
-description: 较为完整的 React.js / Vue.js 的性能比较 
+description: 较为完整的 React.js / Vue.js 的性能比较
 ---
 
 >* 原文链接 : ["A fairer Vue of React" - Comparing React to Vue for dynamic tabular data, part 2.](https://engineering.footballradar.com/a-fairer-vue-of-react-comparing-react-to-vue-for-dynamic-tabular-data-part-2/)
@@ -17,7 +17,7 @@ _有关第一部分的文章，请访问 [https://engineering.footballradar.com/
 
 五月23日，周一，我们发布了一篇关于比较 React 和 Vue 的性能的文章，其实验数据比较了二者谁更适合处理频繁更新的列表数据。特别是在对性能要求非常高的情况下，比方说我们手头上的一个足球雷达（Football Radar）的项目。
 
-最初我们对实验结果信心满满，但发现几个较为重要的错误后，才知道实验结果并非像我们预期的那样。我们非常感谢在 React 和 Vue 社区里的宝贵意见 —— 特别是 React 的核心工程师克里斯托弗(Christopher Chedeau) ([@vjeux](https://twitter.com/vjeux))，和 Vue 的创始人埃文(Evan You)([@youyuxi](https://twitter.com/youyuxi))—— 因为你们，我们才能快速的锁定这次测试中的出现的问题，可以说是因祸得福，尽管错误被公开使我感到有一些小小的尴尬，但我的确学到了很多，所以衷心的感谢你们的讨论。
+最初我们对实验结果信心满满，但发现几个较为重要的错误后，才知道实验结果并非像我们预期的那样。我们非常感谢在 React 和 Vue 社区里的宝贵意见 —— 特别是 React 的核心工程师克里斯托弗(Christopher Chedeau) ([@vjeux](https://twitter.com/vjeux))，和 Vue 的创始人尤雨溪(Evan You)([@youyuxi](https://twitter.com/youyuxi))—— 因为你们，我们才能快速的锁定这次测试中的出现的问题，可以说是因祸得福，尽管错误被公开使我感到有一些小小的尴尬，但我的确学到了很多，所以衷心的感谢你们的讨论。
 
 虽然我们已为第一篇文章做了许多改进，仍不能否定还有进一步改进的余地。因此这篇文章更像是一篇游记，而不是一个全面完善的结果。
 
@@ -38,7 +38,7 @@ _有关第一部分的文章，请访问 [https://engineering.footballradar.com/
 ## 与上一个测试相比的改变
 
 *   在[生产模式](https://github.com/footballradar/VueReactPerf/pull/3)下运行。
-*   添加了 `webpack.optimize.UglifyJsPlugin` 
+*   添加了 `webpack.optimize.UglifyJsPlugin`
 *   添加了 [babel-react-optimize preset](https://github.com/thejameskyle/babel-react-optimize)
 
 ## 新发现
