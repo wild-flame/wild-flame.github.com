@@ -12,8 +12,6 @@ description: 是不是一直搞不清楚单元(Unit)测试，功能(Functional)�
 * 译者：[wild-flame](http://github.com/wild-flame)
 * 校对者：[marcmoore](https://github.com/marcmoore)、[Tina92](https://github.com/Tina92)
 
-# JavaScript 测试︰ 单元 vs 功能 vs 集成测试
-
 单元测试、集成测试、功能测试这些自动化测试方法，是项目持续部署的基础。作为一种研发方式，它能帮助你在短时间内安全的发布新特性，而不用等上几个月甚至几年。
 
 自动测试通过捕捉更多的错误，增强了软件到达用户之前的稳定性。就好比是一张防护网一样，使开发者们在做更改的时候不必担心引发未知的错误。
