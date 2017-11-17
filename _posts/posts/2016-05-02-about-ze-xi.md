@@ -2,7 +2,7 @@
 layout: post
 title: 则西之殤，谁的失责
 author: Taffy
-category: posts
+category: diary 
 ---  
 
 ### 一

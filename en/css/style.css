@@ -45,6 +45,14 @@ img {
 .btn:hover {
   background-position: 0 0;
 }
+
+/* ----------------------------- CV ----------------------------------*/
+
+div.cv li{
+  line-height: 25px;
+}
+
+
 /*------------------------------ HEADER ------------------------------*/
 #header {
   background-color: #eee;
