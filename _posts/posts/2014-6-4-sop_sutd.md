@@ -1,5 +1,5 @@
 ---
-title: Statement of Purpose for SUTD 
+title: Statement of Purpose for my PhD 
 category: posts
 tags: SUTD
 ---
