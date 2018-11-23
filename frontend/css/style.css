@@ -1,0 +1,317 @@
+@charset "UTF-8";
+
+* {
+    box-sizing: border-box
+}
+
+*:after,*.before {
+    box-sizing: border-box
+}
+
+html,body,div,main,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    font-weight: inherit;
+    font-style: inherit;
+    font-family: inherit;
+    vertical-align: baseline
+}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary,main {
+    display: block
+}
+
+header img {
+    -webkit-transform: translate3D(0, 3rem, 0);
+    -ms-transform: translate3D(0, 3rem, 0);
+    transform: translate3D(0, 3rem, 0);
+    position:relative;
+    margin-bottom:0rem; 
+    display:block;
+    opacity:0;
+    width:103px;
+    height: 103px;
+}
+
+header img.active{
+    -webkit-transition: -webkit-transform 1000ms ease-out,opacity 1000ms ease-out;
+    transition: transform 1000ms ease-out,opacity 1000ms ease-out;
+    -webkit-transform: translate3D(0, 0, 0);
+    -ms-transform: translate3D(0, 0, 0);
+    transform: translate3D(0, 0, 0);
+    opacity:1;
+}
+
+* {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-font-smoothing: subpixel-antialiased
+}
+
+a {
+    text-decoration: none
+}
+
+body {
+    line-height: 1
+}
+
+ol,ul {
+    list-style-position: inside;
+    margin-left: 2rem;
+}
+
+li {
+    list-style-position: inside;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+caption,th,td {
+    text-align: left;
+    font-weight: normal
+}
+
+input,textarea {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0
+}
+
+button,input[type="button"] {
+    background: 0
+}\:required {
+    -o-box-shadow: none;
+    -ms-box-shadow: none;
+    box-shadow: none
+}
+
+em,i {
+    font-style: italic
+}
+
+strong,b {
+    font-weight: bold
+}
+
+u {
+    text-decoration: underline
+}
+
+pre,code {
+    font-family: Monaco,Courier,monospace
+}
+
+pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    white-space: pre-line;
+    word-wrap: break-word
+}
+
+blockquote,q {
+    quotes: "" ""
+}
+
+blockquote:before,blockquote:after {
+    content: ""
+}
+
+q:before,q:after {
+    content: ""
+}
+
+a {
+    cursor: pointer
+}
+
+input[type="submit"],input[type="button"] {
+    cursor: pointer
+}
+
+button,label[for] {
+    cursor: pointer
+}
+
+img {
+    -ms-interpolation-mode: bicubic
+}
+
+h1,h2,a,strong {
+
+}
+
+h2,h3,h4 {
+    margin-top: 3rem
+}
+
+p:not(:first-child) {
+    text-indent: 1.7rem
+}
+
+p.cheers {
+    margin-top: 3.4rem;
+    text-indent: 0
+}
+
+del {
+    text-decoration: none
+}
+
+html {
+    font-size: 62.5%;
+    height: 100%;
+    width: 100%;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body {
+    overflow: hidden;
+    font-size: 1.4rem;
+    line-height: 3rem;
+    width: 100%;
+    padding-top: 25vh;
+    padding-bottom: 50vh;
+    position: relative;
+    background: #fdfdfd
+}
+
+body::after {
+    position: absolute;
+    bottom: 1rem;
+    left: 0;
+    right: 0;
+    content: "Dongwen Lin | Infomation System of Technology and Design | Singapore Univesity Of Technology and Design";
+    color: lightgrey;
+    font-size: 1.1rem;
+    padding-right: 5rem;
+    padding-left: 5rem;
+    max-width: 70rem;
+    margin-left: auto;
+    margin-right: auto
+}
+
+body.active {
+    overflow: auto
+}
+
+body.noscroll {
+    overflow: hidden
+}
+
+h2 {
+    margin-top: 1.7em
+}
+
+a {
+    position: relative;
+    color: inherit;
+    -webkit-transition: color 200ms ease-out,border 200ms ease-out;
+    transition: color 200ms ease-out,border 200ms ease-out;
+    border-bottom: 1px dotted red;
+    color: inherit
+}
+
+a:hover {
+    color: red;
+    border-bottom: 1px dotted transparent
+}
+
+main {
+    padding-right: 5rem;
+    padding-left: 5rem;
+    max-width: 72rem;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.content {
+    margin-top: 3.4rem;
+    -webkit-transform: translate3D(0, 3rem, 0);
+    -ms-transform: translate3D(0, 3rem, 0);
+    transform: translate3D(0, 3rem, 0);
+    opacity: 0
+}
+
+.content.active {
+    -webkit-transition: -webkit-transform 1000ms ease-out,opacity 1000ms ease-out;
+    transition: transform 1000ms ease-out,opacity 1000ms ease-out;
+    -webkit-transform: translate3D(0, 0, 0);
+    -ms-transform: translate3D(0, 0, 0);
+    transform: translate3D(0, 0, 0);
+    opacity: 1
+}
+
+.content h2{
+    font-weight:bold; 
+    border-bottom: 1px solid #eee;
+}
+
+.content i {
+    color: #666666;
+    font-size: 90%;
+}
+
+.logo {
+    display: inline;
+    position: relative;
+    line-height: 2.8rem;
+    padding-right: 0rem;
+    font-weight:bold;
+}
+
+.cursor {
+    height: 2rem;
+    content: "";
+    display: inline-block;
+    position: relative;
+    top: 3px;
+    left: 0;
+    bottom: 3px;
+    width: 1px;
+    background: red;
+    -webkit-animation: cursor 1s infinite;
+    animation: cursor 1s infinite
+}
+
+.about {
+    text-indent:3rem;
+    text-align: justify;
+}
+
+.about b {
+    position: relative;
+    color: inherit;
+    -webkit-transition: color 200ms ease-out,border 200ms ease-out;
+    transition: color 200ms ease-out,border 200ms ease-out;
+    color: inherit
+}
+
+.
+
+@-webkit-keyframes cursor {
+    from,to {
+        background: red
+    }
+
+    50% {
+        background: transparent
+    }
+}
+
+@keyframes cursor {
+    from,to {
+        background: red
+    }
+
+    50% {
+        background: transparent
+    }
+}
+/*# sourceMappingURL=style.css.map */
