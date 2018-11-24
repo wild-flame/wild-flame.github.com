@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', function(){
         .type(', ' + titolo  , function(){
             document.querySelector('body').classList.add('active');
                 document.querySelector('.content').classList.add('active');
-            setTimeout(play,5000)
+            setTimeout(play,2000)
         });
 
     var delete_counter = 0
