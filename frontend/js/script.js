@@ -42,13 +42,11 @@ document.addEventListener('DOMContentLoaded', function(){
     }).wait(1000)
         .type(' Ph.D ')
         .wait(900)
-        .put(split_line)
-        .wait(900)
-        .type(' at Singapore University of Technology and Design <D-r> ')
+        .type('at Singapore University of Technology and Design <D-r> ,')
         .wait(900)
         .put(split_line)
         .wait(900)
-        .type(', ' + titolo  , function(){
+        .type(' ' + titolo  , function(){
             document.querySelector('body').classList.add('active');
                 document.querySelector('.content').classList.add('active');
             setTimeout(play,2000)
