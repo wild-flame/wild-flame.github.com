@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function(){
     var logo = document.querySelector('.logo');
 
     // Array contenente
-    var titoli = ['Growth Hacker' ,'Anime Fans', 'Musical Instrument Player', "Data Scientist"]; //, 'Leukemia Survivor'
+    var titoli = ['Growth Hacker' ,'Anime Fans', 'Musical Instrument Player', "Data Scientist", "Human Computer Interaction"]; //, 'Leukemia Survivor'
     var titoli_copy = titoli.slice()
     var titolo = titoli[Math.floor(Math.random()*titoli.length)];
 
