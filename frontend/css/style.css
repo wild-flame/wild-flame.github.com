@@ -175,6 +175,7 @@ body {
     overflow: hidden;
     font-size: 1.4rem;
     line-height: 3rem;
+    /*text-shadow: 1px 1px #eee;*/
     width: 100%;
     padding-top: 25vh;
     padding-bottom: 50vh;
