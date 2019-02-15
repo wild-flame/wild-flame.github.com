@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function(){
     }).wait(1000)
         .type(' Ph.D ')
         .wait(900)
-        .type('at Singapore University of Technology and Design <D-r> ,')
+        .type(' <Dropped> Singapore University of Technology and Design ,')
         .wait(900)
         .put(split_line)
         .wait(900)
