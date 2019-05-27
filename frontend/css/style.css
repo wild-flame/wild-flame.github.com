@@ -316,3 +316,12 @@ main {
     }
 }
 /*# sourceMappingURL=style.css.map */
+
+/* font */
+
+@font-face{ 
+    font-family: 'aku__kamuregular';
+    src: url('/frontend/font/akukamu-webfont.woff2') format('woff2'),
+         url('/frontend/font/akukamu-webfont.woff') format('woff'),
+	     url('/frontend/font/Aku&Kamu.otf') format('truetype');
+}
