@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function(){
     var logo = document.querySelector('.logo');
 
     // Array contenente
-    var titoli = ['Growth Hacker' ,'Anime Fans', 'Musical Instrument Player', "Data Scientist", "Human Computer Interaction"]; //, 'Leukemia Survivor'
+    var titoli = ['Growth Hacker' ,'Anime Fans', 'Musical Instrument Player', "Data Science", "Blockchain Enthusiast", "Human Computer Interaction"]; //, 'Leukemia Survivor'
     var titoli_copy = titoli.slice()
     var titolo = titoli[Math.floor(Math.random()*titoli.length)];
 
@@ -40,9 +40,9 @@ document.addEventListener('DOMContentLoaded', function(){
     tw.wait(500).type(' ',function(){
         document.querySelector('#sutd').classList.add('active');
     }).wait(1000)
-        .type(' Ph.D ')
+        .type(' Research Assistant @')
         .wait(900)
-        .type(' <Dropped> Singapore University of Technology and Design ,')
+        .type(' National University of Singapore ,')
         .wait(900)
         .put(split_line)
         .wait(900)
